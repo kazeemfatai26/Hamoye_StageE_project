@@ -1,0 +1,908 @@
+rank,book_title,book_author,reviews,rating_over_5,price($),cover_type
+#1,The Lost Symbol,Dan Brown,16118,4.4,10.52,Hardcover
+#2,The Shack: Where Tragedy Confronts Eternity,William P. Young,23392,4.7,13.4,Paperback
+#3,Liberty and Tyranny: A Conservative Manifesto,Mark R. Levin,5036,4.8,9.93,Hardcover
+#4,"Breaking Dawn (The Twilight Saga, Book 4)",Stephenie Meyer,16913,4.7,14.3,Hardcover
+#5,Going Rogue: An American Life,Sarah Palin,1572,4.6,9.99,Hardcover
+#6,StrengthsFinder 2.0,Gallup,7078,4.1,18.29,Hardcover
+#7,The Help,Kathryn Stockett,18070,4.8,12.66,Hardcover
+#8,New Moon (The Twilight Saga),Stephenie Meyer,12331,4.7,17.56,Paperback
+#9,The Twilight Saga Collection,Stephenie Meyer,6100,4.7,59.21,Hardcover
+#10,Outliers: The Story of Success,Malcolm Gladwell,22211,4.7,16.04,Hardcover
+#11,Eclipse (Twilight),Stephenie Meyer,12771,4.7,22.4,Hardcover
+#12,"Twilight (The Twilight Saga, Book 1)",Stephenie Meyer,22104,4.7,15.49,Paperback
+#13,"Glenn Beck's Common Sense: The Case Against an Out-of-Control Government, Inspired by Thomas Paine",Glenn Beck,1421,4.6,0.69,Paperback
+#14,Three Cups of Tea: One Man's Mission to Promote Peace - One School at a Time,Greg Mortenson,3498,4.4,11.49,Paperback
+#15,The Love Dare,Stephen Kendrick,3298,4.8,11.78,Paperback
+#16,"Act Like a Lady, Think Like a Man: What Men Really Think About Love, Relationships, Intimacy, and Commitment",Steve Harvey,7043,4.6,20.45,Hardcover
+#17,"Dog Days (Diary of a Wimpy Kid, Book 4) (Volume 4)",Jeff Kinney,7979,4.7,11.6,Hardcover
+#18,Under the Dome: A Novel,Stephen King,9111,4.4,31.61,Hardcover
+#19,The Guernsey Literary and Potato Peel Pie Society,Mary Ann Shaffer,14887,4.7,10.42,Paperback
+#20,Eat This Not That! Supermarket Survival Guide: The No-Diet Weight Loss Solution,David Zinczenko,929,4.0,11.78,Paperback
+#21,Arguing with Idiots: How to Stop Small Minds and Big Government,Glenn Beck,895,4.6,10.5,Hardcover
+#22,"Mastering the Art of French Cooking, Volume I: 50th Anniversary Edition: A Cookbook",Julia Child,7568,4.8,28.49,Hardcover
+#23,Sookie Stackhouse,Charlaine Harris,995,4.7,82.15,Mass Market Paperback
+#24,The Time Traveler's Wife,Audrey Niffenegger,6593,4.0,9.99,Paperback
+#25,"Publication Manual of the American Psychological Association, 6th Edition",American Psychological Association,12674,4.0,24.29,Paperback
+#26,True Compass: A Memoir,Edward M. Kennedy,509,4.0,13.98,Hardcover
+#27,The Girl with the Dragon Tattoo (Millennium Series),Stieg Larsson,15468,4.0,9.49,Paperback
+#28,The 5000 Year Leap,W. Cleon Skousen,2565,4.8,16.6,Paperback
+#29,Good to Great: Why Some Companies Make the Leap and Others Don't,Jim Collins,5804,4.0,16.5,Hardcover
+#30,Eclipse (Twilight Sagas),Stephenie Meyer,12771,4.7,23.9,Paperback
+#31,Where the Wild Things Are,Maurice Sendak,32045,4.9,13.2,Hardcover
+#32,"The Five Dysfunctions of a Team: A Leadership Fable, 20th Anniversary Edition",Patrick Lencioni,6256,4.6,20.72,Hardcover
+#33,Olive Kitteridge,Elizabeth Strout,11522,4.3,8.77,Paperback
+#34,Dead And Gone: A Sookie Stackhouse Novel (Sookie Stackhouse/True Blood),Charlaine Harris,2790,4.7,11.74,Hardcover
+#35,"Eat This, Not That! Thousands of Simple Food Swaps that Can Save You 10, 20, 30 Pounds--or More!",David Zinczenko,1158,4.3,14.97,Paperback
+#36,"Super Freakonomics: Global Cooling, Patriotic Prostitutes, and Why Suicide Bombers Should Buy Life Insurance",Steven D. Levitt,2373,4.6,17.54,Hardcover
+#37,The Tipping Point: How Little Things Can Make a Big Difference,Malcolm Gladwell,5732,4.4,12.99,Paperback
+#38,Crazy Love: Overwhelmed by a Relentless God,Francis Chan,1920,4.7,16.48,Paperback
+#39,"The Last Olympian (Percy Jackson and the Olympians, Book 5)",Rick Riordan,14955,4.8,10.44,Hardcover
+#40,The Elegance of the Hedgehog,Muriel Barbery,3486,4.2,9.09,Paperback
+#41,"I, Alex Cross",James Patterson,3243,4.6,9.8,Hardcover
+#42,The Girl Who Played with Fire (Millennium),Stieg Larsson,10694,4.7,22.8,Hardcover
+#43,The Last Lecture,Randy Pausch,5900,4.7,15.41,Hardcover
+#44,The Five Love Languages: How to Express Heartfelt Commitment to Your Mate,Gary Chapman,866,4.6,14.72,Paperback
+#45,Watchmen,Alan Moore,7746,4.8,33.99,Paperback
+#46,The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change,Stephen R. Covey,1674,4.6,19.99,Paperback
+#1,The Girl Who Kicked the Hornet's Nest (Millennium Trilogy),Stieg Larsson,11051,4.7,11.93,Hardcover
+#2,The Girl with the Dragon Tattoo (Millennium Series),Stieg Larsson,15468,4.0,9.49,Paperback
+#3,Decision Points,George W. Bush,2399,4.6,12.39,Hardcover
+#4,The Help,Kathryn Stockett,18070,4.8,12.66,Hardcover
+#5,The Girl Who Played with Fire (Millennium Series),Stieg Larsson,10694,4.7,11.12,Paperback
+#6,"The Ugly Truth (Diary of a Wimpy Kid, Book 5)",Jeff Kinney,10589,4.8,11.71,Hardcover
+#7,StrengthsFinder 2.0,Gallup,7078,4.1,18.29,Hardcover
+#8,Mockingjay (The Hunger Games),Suzanne Collins,37035,4.6,9.08,Hardcover
+#9,Women Food and God: An Unexpected Path to Almost Everything,Geneen Roth,1967,4.4,13.92,Hardcover
+#10,"Publication Manual of the American Psychological Association, 6th Edition",American Psychological Association,12674,4.0,24.29,Paperback
+#11,"Autobiography of Mark Twain, Vol. 1",Mark Twain,612,4.4,22.0,Hardcover
+#12,The Big Short: Inside the Doomsday Machine,Michael Lewis,5893,4.7,18.24,Hardcover
+#13,Food Rules: An Eater's Manual,Michael Pollan,2494,4.0,11.57,Paperback
+#14,"Unbroken: A World War II Story of Survival, Resilience, and Redemption",Laura Hillenbrand,33630,4.8,13.99,Hardcover
+#15,"Dead in the Family (Sookie Stackhouse/True Blood, Book 10)",Charlaine Harris,3296,4.6,9.01,Hardcover
+#16,Sh*t My Dad Says,Justin Halpern,1781,4.7,14.99,Hardcover
+#17,Crazy Love: Overwhelmed by a Relentless God,Francis Chan,1920,4.7,16.48,Paperback
+#18,The Short Second Life of Bree Tanner: An Eclipse Novella (The Twilight Saga),Stephenie Meyer,6165,4.7,10.64,Hardcover
+#19,Life,Keith Richards,4700,4.6,13.8,Hardcover
+#20,Cutting for Stone,Abraham Verghese,6790,4.6,12.0,Paperback
+#21,The Daily Show with Jon Stewart Presents Earth (The Book): A Visitor's Guide to the Human Race,Jon Stewart,576,4.0,12.89,Hardcover
+#22,The Official SAT Study Guide,The College Board,1526,4.4,41.0,Paperback
+#23,"Game Change: Obama and the Clintons, McCain and Palin, and the Race of a Lifetime",John Heilemann,1358,4.0,7.92,Hardcover
+#24,The Immortal Life of Henrietta Lacks,Rebecca Skloot,16936,4.7,14.19,Hardcover
+#25,"The Lost Hero (Heroes of Olympus, Book 1)",Rick Riordan,11549,4.8,14.53,Hardcover
+#26,Teach Like a Champion: 49 Techniques that Put Students on the Path to College,Doug Lemov,860,4.0,22.99,Paperback
+#27,Outliers: The Story of Success,Malcolm Gladwell,22211,4.7,16.04,Hardcover
+#28,Catching Fire (The Hunger Games),Suzanne Collins,32464,4.7,9.49,Hardcover
+#29,"The Five Dysfunctions of a Team: A Leadership Fable, 20th Anniversary Edition",Patrick Lencioni,6256,4.6,20.72,Hardcover
+#30,Good to Great: Why Some Companies Make the Leap and Others Don't,Jim Collins,5804,4.0,16.5,Hardcover
+#31,Three Cups of Tea: One Man's Mission to Promote Peace - One School at a Time,Greg Mortenson,3498,4.4,11.49,Paperback
+#32,"The Road to Serfdom: Text and Documents--The Definitive Edition (The Collected Works of F. A. Hayek, Volume 2)",F. A. Hayek,2406,4.7,17.0,Paperback
+#33,The Confession: A Novel,John Grisham,7923,4.4,9.35,Hardcover
+#34,"Delivering Happiness: A Path to Profits, Passion, and Purpose",Tony Hsieh,3242,4.6,16.97,Hardcover
+#35,A Patriot's History of the United States: From Columbus's Great Discovery to the War on Terror,Larry Schweikart,577,4.7,44.5,Paperback
+#36,"The Last Olympian (Percy Jackson and the Olympians, Book 5)",Rick Riordan,14955,4.8,10.44,Hardcover
+#37,Switch: How to Change Things When Change Is Hard,Chip Heath,3912,4.6,16.99,Hardcover
+#38,The Art of Racing in the Rain: A Novel,Garth Stein,16419,4.7,9.8,Paperback
+#51,The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change,Stephen R. Covey,1674,4.6,19.99,Paperback
+#52,Cleopatra: A Life,Stacy Schiff,1586,4.2,12.0,Hardcover
+#53,Freedom: A Novel,Jonathan Franzen,2719,4.0,12.23,Hardcover
+#54,Freedom,Jonathan Franzen,2719,4.0,17.48,Hardcover
+#55,"Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen",Christopher McDougall,11834,4.7,18.49,Hardcover
+#56,Fall of Giants (The Century Trilogy),Ken Follett,18704,4.0,16.98,Hardcover
+#57,"Eat, Pray, Love: One Woman's Search for Everything Across Italy, India and Indonesia",Elizabeth Gilbert,8494,4.4,9.49,Paperback
+#58,"Eat Pray Love: One Woman's Search for Everything Across Italy, India and Indonesia",Elizabeth Gilbert,8494,4.4,9.27,Paperback
+#59,Tao I: The Way of All Life,Zhi Gang Sha Dr.,88,4.3,27.57,Hardcover
+#60,Chelsea Chelsea Bang Bang,Chelsea Handler,1045,4.4,9.65,Hardcover
+#61,Let the Great World Spin: A Novel,Colum McCann,1778,4.3,8.58,Paperback
+#62,The Pioneer Woman Cooks: Recipes from an Accidental Country Girl,Ree Drummond,5477,4.8,14.52,Hardcover
+#63,The Tipping Point: How Little Things Can Make a Big Difference,Malcolm Gladwell,5732,4.4,12.99,Paperback
+#64,The Omnivore's Dilemma: A Natural History of Four Meals,Michael Pollan,3678,4.6,10.33,Paperback
+#65,The Belly Fat Cure: Discover the New Carb Swap System™ and Lose 4 to 9 lbs. Every Week,Jorge Cruise,1071,4.1,35.3,Spiral-bound
+#66,"The Battle of the Labyrinth (Percy Jackson and the Olympians, Book 4)",Rick Riordan,13936,4.8,7.99,Paperback
+#67,"The 4-Hour Workweek: Escape 9-5, Live Anywhere, and Join the New Rich",Timothy Ferriss,18930,4.0,13.39,Hardcover
+#68,"Full Dark, No Stars",Stephen King,3419,4.6,19.59,Hardcover
+#69,Sizzling Sixteen (Stephanie Plum Novels),Janet Evanovich,3422,4.6,11.37,Hardcover
+#70,The Grand Design,Stephen Hawking,2790,4.0,15.99,Hardcover
+#71,The Overton Window ,Glenn Beck,1311,4.6,15.0,Hardcover
+#72,"Jesus Calling, Padded Hardcover, with Scripture references",Sarah Young,31196,4.9,7.53,Hardcover
+#73,Spoken from the Heart,Laura Bush,668,4.6,12.6,Hardcover
+#74,Diary of a Wimpy Kid Do-it-yourself Book,Jeff Kinney,9371,4.8,21.98,Hardcover
+#75,The Book of Awakening: Having the Life You Want by Being Present to the Life You Have,Mark Nepo,3959,4.7,15.5,Paperback
+#76,"Mastering the Art of French Cooking, Volume I: 50th Anniversary Edition: A Cookbook",Julia Child,7568,4.8,28.49,Hardcover
+#77,Safe Haven,Nicholas Sparks,10931,4.7,14.77,Hardcover
+#78,"Change Your Brain, Change Your Body: Use Your Brain to Get and Keep the Body You Have Always Wanted",Daniel G. Amen,853,4.0,14.3,Hardcover
+#79,"The Kind Diet: A Simple Guide to Feeling Great, Losing Weight, and Saving the Planet",Alicia Silverstone,1572,4.0,18.93,Hardcover
+#80,Decoded,Jay-Z,1514,4.7,44.99,Hardcover
+#81,The Glass Castle: A Memoir (book),Jeannette Walls,19008,4.6,12.06,Paperback
+#82,The Shack: Where Tragedy Confronts Eternity,William P. Young,23392,4.7,13.4,Paperback
+#83,"Breaking Dawn (The Twilight Saga, Book 4)",Stephenie Meyer,16913,4.7,14.3,Hardcover
+#84,Sookie Stackhouse 8-copy Boxed Set (Sookie Stackhouse / Southern Vampire),Charlaine Harris,1234,4.7,24.25,Mass Market Paperback
+#85,The Guernsey Literary and Potato Peel Pie Society,Mary Ann Shaffer,14887,4.7,10.42,Paperback
+#86,Hotel on the Corner of Bitter and Sweet,Jamie Ford,6239,4.6,13.49,Paperback
+#87,"The 4 Hour Body: An Uncommon Guide to Rapid Fat Loss, Incredible Sex and Becoming Superhuman",Timothy Ferriss,6581,4.4,15.96,Hardcover
+#88,Crucial Conversations: Tools for Talking When Stakes are High,Kerry Patterson,772,4.0,17.99,Paperback
+#89,"Happy Ever After (Bride Quartet, Book 4)",Nora Roberts,2206,4.7,11.25,Paperback
+#90,A Guide to the Project Management Body of Knowledge,Project Management Institute,726,4.4,24.33,Paperback
+#91,The Book Thief,Markus Zusak,34536,4.7,6.99,Paperback
+#92,The Catcher in the Rye,J. D. Salinger,30929,4.0,13.49,Paperback
+#93,"The China Study: The Most Comprehensive Study of Nutrition Ever Conducted And the Startling Implications for Diet, Weight Loss, And Long-term Health",Thomas Campbell,5327,4.7,24.0,Paperback
+#94,American Assassin: A Thriller (A Mitch Rapp Novel),Vince Flynn,8352,4.6,18.47,Hardcover
+#95,Rework,Jason Fried,5997,4.0,13.99,Hardcover
+#96,In Defense of Food: An Eater's Manifesto,Michael Pollan,2701,4.6,10.98,Paperback
+#97,Squirrel Seeks Chipmunk: A Modest Bestiary,David Sedaris,935,4.1,12.92,Hardcover
+#98,Who Moved My Cheese,Spencer Johnson,16758,4.6,16.16,Hardcover
+#1,Steve Jobs,Walter Isaacson,12782,4.7,17.32,Hardcover
+#2,Heaven is for Real: A Little Boy's Astounding Story of His Trip to Heaven and Back,Todd Burpo,17368,4.7,10.24,Paperback
+#3,"Cabin Fever (Diary of a Wimpy Kid, Book 6)",Jeff Kinney,11127,4.8,1.0,Hardcover
+#4,StrengthsFinder 2.0,Gallup,7078,4.1,18.29,Hardcover
+#5,The Hunger Games (Book 1),Suzanne Collins,42773,4.7,11.69,Paperback
+#6,"Unbroken: A World War II Story of Survival, Resilience, and Redemption",Laura Hillenbrand,33630,4.8,13.99,Hardcover
+#7,Inheritance: Book IV (Inheritance Cycle),Christopher Paolini,9010,4.7,15.0,Hardcover
+#8,Go the F**k to Sleep,Adam Mansbach,20243,4.8,14.35,Hardcover
+#9,Mockingjay (The Hunger Games),Suzanne Collins,37035,4.6,9.08,Hardcover
+#10,Game of Thrones Boxed Set: A Game of Thrones/A Clash of Kings/A Storm of Swords/A Feast for Crows,George R.R. Martin,6354,4.6,54.98,Mass Market Paperback
+#11,Catching Fire (The Hunger Games),Suzanne Collins,32464,4.7,9.49,Hardcover
+#12,The 17 Day Diet: A Doctor's Plan Designed for Rapid Results,Mike Moreno,3104,4.3,16.97,Hardcover
+#13,A Dance with Dragons (A Song of Ice and Fire),George R. R. Martin,17253,4.0,24.31,Hardcover
+#14,"The Son of Neptune (Heroes of Olympus, Book 2)",Rick Riordan,11657,4.8,9.99,Hardcover
+#15,Killing Lincoln: The Shocking Assassination that Changed America Forever (Bill O'Reilly's Killing Series),Bill O'Reilly,10849,4.7,9.99,Hardcover
+#16,"Publication Manual of the American Psychological Association, 6th Edition",American Psychological Association,12674,4.0,24.29,Paperback
+#17,The Help,Kathryn Stockett,18070,4.8,9.98,Paperback
+#18,The Immortal Life of Henrietta Lacks,Rebecca Skloot,16936,4.7,12.1,Paperback
+#19,11/22/63: A Novel,Stephen King,3115,4.7,16.43,Hardcover
+#20,The Official SAT Study Guide,The College Board,1526,4.4,41.0,Paperback
+#21,"Jesus Calling, Padded Hardcover, with Scripture references",Sarah Young,31196,4.9,7.53,Hardcover
+#22,The Hunger Games Trilogy Boxed Set,Suzanne Collins,27185,4.8,59.9,Hardcover
+#23,Cutting for Stone,Abraham Verghese,6790,4.6,12.0,Paperback
+#24,Tina Fey: Bossypants,Tina Fey,8170,4.3,10.28,Hardcover
+#25,"The 4 Hour Body: An Uncommon Guide to Rapid Fat Loss, Incredible Sex and Becoming Superhuman",Timothy Ferriss,6581,4.4,15.96,Hardcover
+#26,"In the Garden of Beasts: Love, Terror, and an American Family in Hitler's Berlin",Eric Larson,7585,4.0,14.49,Hardcover
+#27,The 5 Love Languages: The Secret to Love That Lasts,Gary Chapman,7012,4.7,23.99,Paperback
+#28,Crazy Love: Overwhelmed by a Relentless God,Francis Chan,1920,4.7,16.48,Paperback
+#29,A Stolen Life: A Memoir,Jaycee Dugard,6150,4.7,18.19,Hardcover
+#30,The Girl Who Kicked the Hornet's Nest (Millennium Trilogy),Stieg Larsson,11051,4.7,11.93,Hardcover
+#31,Water for Elephants: A Novel,Sara Gruen,4923,4.0,11.28,Paperback
+#33,The Lego Ideas Book: Unlock Your Imagination,Daniel Lipkowitz,9887,4.0,12.8,Hardcover
+#34,One Thousand Gifts: A Dare to Live Fully Right Where You Are,Ann Voskamp,4514,4.6,17.12,Hardcover
+#35,The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change,Stephen R. Covey,1674,4.6,19.99,Paperback
+#36,"The Throne of Fire (The Kane Chronicles, Book 2)",Rick Riordan,3821,4.8,15.43,Hardcover
+#37,"Dead Reckoning (Sookie Stackhouse/True Blood, Book 11)",Charlaine Harris,3567,4.0,9.99,Hardcover
+#38,Good to Great: Why Some Companies Make the Leap and Others Don't,Jim Collins,5804,4.0,16.5,Hardcover
+#39,The Litigators,John Grisham,11510,4.0,19.0,Hardcover
+#40,"Love Wins: A Book About Heaven, Hell, and the Fate of Every Person Who Ever Lived",Rob Bell,2172,4.4,20.65,Hardcover
+#41,The Help,Kathryn Stockett,18070,4.8,10.49,Paperback
+#42,"Thinking, Fast and Slow",Daniel Kahneman,29734,4.6,23.87,Hardcover
+#43,The Paris Wife: A Novel,Paula McLain,5284,4.4,15.2,Hardcover
+#44,Radical: Taking Back Your Faith from the American Dream,David Platt,2727,4.7,9.21,Paperback
+#45,The Art of Racing in the Rain: A Novel,Garth Stein,16419,4.7,9.8,Paperback
+#46,Teach Like a Champion: 49 Techniques that Put Students on the Path to College,Doug Lemov,860,4.0,22.99,Paperback
+#47,"Eat to Live: The Amazing Nutrient-Rich Program for Fast and Sustained Weight Loss, Revised Edition",Joel Fuhrman MD,9946,4.0,12.99,Paperback
+#48,"The China Study: The Most Comprehensive Study of Nutrition Ever Conducted And the Startling Implications for Diet, Weight Loss, And Long-term Health",Thomas Campbell,5327,4.7,24.0,Paperback
+#49,What to Expect When You're Expecting,Heidi Murkoff,29390,4.8,18.0,Paperback
+#51,The Best of Me,Nicholas Sparks,8838,4.6,18.25,Hardcover
+#52,Jacqueline Kennedy: Historic Conversations on Life with John F. Kennedy,Jacqueline Kennedy,668,4.4,13.08,Hardcover
+#53,The Girl with the Dragon Tattoo (Millennium Series),Stieg Larsson,15468,4.0,9.49,Paperback
+#54,The Greater Journey: Americans in Paris,David McCullough,1694,4.0,25.41,Hardcover
+#55,Switch: How to Change Things When Change Is Hard,Chip Heath,3912,4.6,16.99,Hardcover
+#56,Every Thing On It,Shel Silverstein,1753,4.9,11.99,Hardcover
+#57,Miss Peregrine's Home for Peculiar Children,Ransom Riggs,13222,4.0,10.41,Hardcover
+#58,Moonwalking With Einstein: The Art and Science of Remembering Everything,Joshua Foer,5965,4.0,13.58,Hardcover
+#59,The Great Gatsby: The Only Authorized Edition,F. Scott Fitzgerald,18661,4.0,6.79,Paperback
+#60,The Help,Kathryn Stockett,18070,4.8,12.66,Hardcover
+#61,1Q84: A novel,Haruki Murakami,4649,4.4,21.99,Hardcover
+#62,Boomerang: Travels in the New Third World,Michael Lewis,1774,4.0,13.8,Hardcover
+#63,Who Moved My Cheese,Spencer Johnson,16758,4.6,16.16,Hardcover
+#64,"Strengths Based Leadership: Great Leaders, Teams, and Why People Follow",Tom Rath,2349,4.0,15.64,Hardcover
+#65,Elder Scrolls V: Skyrim: Prima Official Game Guide,David Hodgson,1779,4.6,3.31,Paperback
+#66,The Glass Castle: A Memoir (book),Jeannette Walls,19008,4.6,12.06,Paperback
+#67,The Book Thief,Markus Zusak,34536,4.7,6.99,Paperback
+#68,"The 4-Hour Workweek: Escape 9-5, Live Anywhere, and Join the New Rich",Timothy Ferriss,18930,4.0,13.39,Hardcover
+#69,"Oh, the Places You'll Go!  ",Dr. Seuss,42848,4.9,8.48,Hardcover
+#70,Through My Eyes,Tim Tebow,1003,4.7,15.14,Hardcover
+#71,The Land of Painted Caves: A Novel (Earth's Children),Jean M. Auel,6293,4.2,22.79,Hardcover
+#72,"The Social Animal: The Hidden Sources of Love, Character, and Achievement",David Brooks,865,4.0,14.52,Hardcover
+#73,A Guide to the Project Management Body of Knowledge,Project Management Institute,726,4.4,24.33,Paperback
+#74,Guinness World Records 2012,Guinness World Records,489,4.6,12.93,Hardcover
+#75,State of Wonder,Ann Patchett,3966,4.2,19.1,Hardcover
+#76,A Visit from the Goon Squad,Jennifer Egan,4367,4.0,11.59,Paperback
+#77,"Prevent And Reverse Heart Disease: The Revolutionary, Scientifically Proven, Nutrition-Based Cure",Caldwell B. Esselstyn Jr.,5770,4.6,16.2,Paperback
+#78,Harry Potter Paperback Box Set (Books 1-7),J. K. Rowling,91629,4.9,38.86,Paperback
+#79,Explosive Eighteen: A Stephanie Plum Novel (Stephanie Plum Novels),Janet Evanovich,4629,4.6,14.99,Hardcover
+#80,The 7 Habits of Highly Effective Teens: The Ultimate Teenage Success Guide,Sean Covey,11732,4.6,15.98,Paperback
+#81,"Delivering Happiness: A Path to Profits, Passion, and Purpose",Tony Hsieh,3242,4.6,16.97,Hardcover
+#82,"The Lost Hero (Heroes of Olympus, Book 1)",Rick Riordan,11549,4.8,14.53,Hardcover
+#83,Room,Emma Donoghue,9750,4.0,10.43,Paperback
+#84,Hotel on the Corner of Bitter and Sweet,Jamie Ford,6239,4.6,13.49,Paperback
+#85,The Tipping Point: How Little Things Can Make a Big Difference,Malcolm Gladwell,5732,4.4,12.99,Paperback
+#86,Emotional Intelligence 2.0,Travis Bradberry,10429,4.0,14.98,Hardcover
+#87,Outliers: The Story of Success,Malcolm Gladwell,22211,4.7,15.71,Paperback
+#88,Forks Over Knives: The Plant-Based Way to Health. The #1 New York Times Bestseller,Gene Stone,2800,4.0,8.69,Paperback
+#89,The Girl Who Played with Fire (Millennium Series),Stieg Larsson,10694,4.7,11.12,Paperback
+#90,"Hungry Girl 300 Under 300: 300 Breakfast, Lunch & Dinner Dishes Under 300 Calories",Lisa Lillien,1156,4.4,20.25,Paperback
+#91,The Alchemist,Paulo Coelho,3816,4.7,25.0,Paperback
+#92,Getting Things Done: The Art of Stress-Free Productivity,David Allen,4736,4.6,24.95,Paperback
+#93,The Invention of Hugo Cabret,Brian Selznick,2654,4.8,13.03,Hardcover
+#94,"Now, Discover Your Strengths: The revolutionary Gallup program that shows you how to develop your unique talents and strengths",Gallup,766,3.0,17.89,Hardcover
+#95,Drive: The Surprising Truth About What Motivates Us,Daniel H. Pink,5491,4.0,10.79,Paperback
+#96,Smokin' Seventeen (Stephanie Plum),Janet Evanovich,3762,4.6,14.46,Hardcover
+#1,"Fifty Shades Of Grey: Book One of the Fifty Shades Trilogy (Fifty Shades Of Grey Series, 1)",E L James,32887,4.0,13.99,Paperback
+#2,Fifty Shades Darker,E L James,32376,4.0,13.88,Paperback
+#3,"Fifty Shades Freed: Book Three of the Fifty Shades Trilogy (Fifty Shades of Grey Series) (English Edition) (Fifty Shades Of Grey Series, 3)",Suzanne Collins,42773,4.7,11.69,Paperback
+#4,The Hunger Games (Book 1),Gallup,7078,4.1,18.29,Hardcover
+#5,StrengthsFinder 2.0,E L James,38222,4.6,19.49,Paperback
+#6,Fifty Shades Trilogy (Fifty Shades of Grey / Fifty Shades Darker / Fifty Shades Freed),Suzanne Collins,32464,4.7,9.49,Hardcover
+#7,Catching Fire (The Hunger Games),Suzanne Collins,37035,4.6,9.08,Hardcover
+#8,Mockingjay (The Hunger Games),Jeff Kinney,12521,4.7,13.95,Hardcover
+#9,"The Third Wheel (Diary of a Wimpy Kid, Book 7)",Mark Owen,9676,4.6,16.88,Hardcover
+#10,No Easy Day: The Autobiography of a Navy Seal: The Firsthand Account of the Mission That Killed Osama Bin Laden,Suzanne Collins,27185,4.8,59.9,Hardcover
+#11,The Hunger Games Trilogy Boxed Set,Gillian Flynn,66979,4.1,15.21,Hardcover
+#12,Gone Girl,Rick Riordan,13960,4.8,11.46,Hardcover
+#13,"The Mark of Athena (Heroes of Olympus, Book 3)",The College Board,1526,4.4,41.0,Paperback
+#14,The Official SAT Study Guide,George R.R. Martin,6354,4.6,54.98,Mass Market Paperback
+#15,Game of Thrones Boxed Set: A Game of Thrones/A Clash of Kings/A Storm of Swords/A Feast for Crows,Bill O'Reilly,10410,4.6,14.35,Hardcover
+#16,Killing Kennedy: The End of Camelot,American Psychological Association,12674,4.0,24.29,Paperback
+#17,"Publication Manual of the American Psychological Association, 6th Edition",Bill O'Reilly,10849,4.7,9.99,Hardcover
+#18,Killing Lincoln: The Shocking Assassination that Changed America Forever (Bill O'Reilly's Killing Series),Laura Hillenbrand,33630,4.8,13.99,Hardcover
+#19,"Unbroken: A World War II Story of Survival, Resilience, and Redemption",Eben Alexander,16907,4.4,12.79,Paperback
+#20,Proof of Heaven: A Neurosurgeon's Journey into the Afterlife,Gary Chapman,7012,4.7,23.99,Paperback
+#21,The 5 Love Languages: The Secret to Love That Lasts,Ina Garten,2346,4.8,17.99,Hardcover
+#22,Barefoot Contessa Foolproof: Recipes You Can Trust: A Cookbook,Daniel Kahneman,29734,4.6,23.87,Hardcover
+#23,"Thinking, Fast and Slow",J.K. Rowling,10955,3.4,11.0,Hardcover
+#24,The Casual Vacancy,Jonathan Cahn,19005,4.7,9.49,Paperback
+#25,The Harbinger: The Ancient Mystery that Holds the Secret of America's Future,Charles Duhigg,22726,4.7,19.19,Hardcover
+#26,The Power of Habit: Why We Do What We Do in Life and Business,Walter Isaacson,12782,4.7,17.32,Hardcover
+#27,Steve Jobs,William Davis,8638,4.4,13.96,Hardcover
+#28,"Wheat Belly: Lose the Wheat, Lose the Weight, and Find Your Path Back to Health",Dr. Seuss,42848,4.9,8.48,Hardcover
+#29,"Oh, the Places You'll Go!  ",Stephen R. Covey,1674,4.6,19.99,Paperback
+#30,The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change,Patrick Lencioni,6256,4.6,20.72,Hardcover
+#31,"The Five Dysfunctions of a Team: A Leadership Fable, 20th Anniversary Edition",Susan Cain,20015,4.6,23.01,Hardcover
+#32,Quiet: The Power of Introverts in a World That Can't Stop Talking,F. Scott Fitzgerald,18661,4.0,6.79,Paperback
+#33,The Great Gatsby: The Only Authorized Edition,John Grisham,24618,4.4,20.15,Hardcover
+#34,The Racketeer,Mark Hyman M.D.,2489,4.3,13.95,Hardcover
+#35,"The Blood Sugar Solution: The UltraHealthy Program for Losing Weight, Preventing Disease, and Feeling Great Now!",Sherri Duskey Rinker,20089,4.9,14.48,Hardcover
+#36,"Goodnight, Goodnight Construction Site (Hardcover Books for Toddlers, Preschool Books for Kids)",Rebecca Skloot,16936,4.7,12.1,Paperback
+#37,The Immortal Life of Henrietta Lacks,John Green,62076,4.7,11.06,Hardcover
+#38,The Fault in Our Stars,Deb Perelman,1834,4.7,17.14,Hardcover
+#51,The Smitten Kitchen Cookbook: Recipes and Wisdom from an Obsessive Home Cook,Heidi Murkoff,29390,4.8,18.0,Paperback
+#52,What to Expect When You're Expecting,Robert Kirkman,7562,4.8,27.49,Paperback
+#53,The Walking Dead: Compendium One,Nate Silver,1939,4.0,18.46,Hardcover
+#54,The Signal and the Noise: Why So Many Predictions Fail-But Some Don't,The Oatmeal,10687,4.0,7.07,Paperback
+#55,How to Tell If Your Cat Is Plotting to Kill You (The Oatmeal) (Volume 2),George R. R. Martin,17253,4.0,24.31,Hardcover
+#56,A Dance with Dragons (A Song of Ice and Fire),Stephen Colbert,604,4.3,15.84,Hardcover
+#57,America Again: Re-becoming the Greatness We Never Weren't,DK Publishing,886,4.0,3.29,Hardcover
+#58,LEGO NINJAGO: Character Encyclopedia,Chris Kyle,19371,4.6,18.54,Hardcover
+#59,American Sniper: The Autobiography of the Most Lethal Sniper in U.S. Military History,Malcolm Gladwell,22211,4.7,15.71,Paperback
+#60,Outliers: The Story of Success,Doug Lemov,860,4.0,22.99,Paperback
+#61,Teach Like a Champion: 49 Techniques that Put Students on the Path to College,Sylvia Day,14709,4.4,1.97,Paperback
+#62,Bared to You,Don Miguel Ruiz,86679,4.7,7.74,Paperback
+#63,The Four Agreements: A Practical Guide to Personal Freedom (A Toltec Wisdom Book),Tom Rath,2349,4.0,15.64,Hardcover
+#64,"Strengths Based Leadership: Great Leaders, Teams, and Why People Follow",Mike Moreno,3104,4.3,16.97,Hardcover
+#65,The 17 Day Diet: A Doctor's Plan Designed for Rapid Results,Francis Chan,1920,4.7,16.48,Paperback
+#66,Crazy Love: Overwhelmed by a Relentless God,Adam Mansbach,20243,4.8,14.35,Hardcover
+#67,Go the F**k to Sleep,Hilary Mantel,8624,4.0,27.99,Hardcover
+#68,Bring Up the Bodies,Jim Collins,1281,4.6,1.8,Hardcover
+#69,"Great by Choice: Uncertainty, Chaos, and Luck--Why Some Thrive Despite Them All (Good to Great, 5)",Joel Fuhrman MD,9946,4.0,21.9,Mass Market Paperback
+#70,Eat to Live: The Amazing Nutrient-Rich Program for Fast and Sustained Weight Loss,Sylvia Day,12620,4.6,16.75,Paperback
+#71,"Reflected in You (Crossfire, Book 2)",Spencer Johnson,16758,4.6,16.16,Hardcover
+#72,Who Moved My Cheese,Markus Zusak,34536,4.7,6.99,Paperback
+#73,The Book Thief,Project Management Institute,726,4.4,24.33,Paperback
+#74,A Guide to the Project Management Body of Knowledge,Katherine Boo,3846,4.3,16.0,Hardcover
+#75,"Behind the Beautiful Forevers: Life, Death, and Hope in a Mumbai Undercity",Charlaine Harris,4372,4.0,14.85,Hardcover
+#76,"Deadlocked (Sookie Stackhouse/True Blood, Book 12)",Kerry Patterson,9891,4.7,19.7,Paperback
+#77,"Crucial Conversations Tools for Talking When Stakes Are High, Second Edition",Gene Stone,2800,4.0,8.69,Paperback
+#78,Forks Over Knives: The Plant-Based Way to Health. The #1 New York Times Bestseller,Sally Lloyd-Jones,11859,4.9,15.79,Hardcover
+#79,The Jesus Storybook Bible: Every Story Whispers His Name,Janet Evanovich,8076,4.6,14.0,Hardcover
+#80,Notorious Nineteen: A Stephanie Plum Novel,Timothy Ferriss,2827,4.0,19.87,Hardcover
+#81,"The 4-Hour Chef: The Simple Path to Cooking Like a Pro, Learning Anything, and Living the Good Life",David Mitchell,5826,4.3,11.99,Paperback
+#82,Cloud Atlas,Paulo Coelho,3816,4.7,25.0,Paperback
+#83,The Alchemist,Suzanne Collins,42773,4.7,1.56,Hardcover
+#84,The Hunger Games,Anne Lamott,2022,4.6,13.0,Hardcover
+#85,"Help, Thanks, Wow: The Three Essential Prayers",R. J. Palacio,35698,4.8,9.67,Hardcover
+#86,Wonder,Woo Myung,50,3.8,22.97,Hardcover
+#87,"Stop Living In This Land, Go To The Everlasting World Of Happiness, Live There Forever",Mary C. Neal,4826,4.0,9.29,Paperback
+#88,"To Heaven and Back: A Doctor's Extraordinary Account of Her Death, Heaven, Angels, and Life Again: A True Story",Del Sroufe,13075,4.0,9.79,Paperback
+#89,"Forks Over Knives―The Cookbook. A New York Times Bestseller: Over 300 Simple and Delicious Plant-Based Recipes to Help You Lose Weight, Be Healthier, and Feel Better Every Day",Suzanne Collins,32464,4.7,12.55,Paperback
+#90,Catching Fire (Hunger Games),Robert Jordan,13062,4.8,19.39,Hardcover
+#91,"A Memory of Light (Wheel of Time, Book 14) (Wheel of Time, 14)",Jeff Kinney,11127,4.8,1.0,Hardcover
+#92,"Cabin Fever (Diary of a Wimpy Kid, Book 6)",Sean Covey,11732,4.6,15.98,Paperback
+#93,The 7 Habits of Highly Effective Teens: The Ultimate Teenage Success Guide,Robert A. Caro,1511,4.8,26.43,Hardcover
+#94,The Passage of Power: The Years of Lyndon Johnson,Ree Drummond,5477,4.8,14.52,Hardcover
+#95,The Pioneer Woman Cooks: Recipes from an Accidental Country Girl,Zhi Gang Sha Dr.,153,4.6,23.95,Hardcover
+#96,"Divine Healing Hands: Experience Divine Power to Heal You, Animals, and Nature, and to Transform All Life (Soul Power)",Thomas Campbell,5327,4.7,24.0,Paperback
+#97,"The China Study: The Most Comprehensive Study of Nutrition Ever Conducted And the Startling Implications for Diet, Weight Loss, And Long-term Health",Gallup,7078,4.1,18.29,Hardcover
+#1,StrengthsFinder 2.0,Jeff Kinney,12471,4.8,13.85,Hardcover
+#2,"Lean In: Women, Work, and the Will to Lead",Rush Limbaugh,9349,4.9,10.25,Hardcover
+#3,"Diary of a Wimpy Kid: Hard Luck, Book 8",Sarah Young,31196,4.9,7.53,Hardcover
+#4,Rush Revere and the Brave Pilgrims: Time-Travel Adventures with Exceptional Americans (1),Dan Brown,35555,4.2,13.59,Hardcover
+#5,"Jesus Calling, Padded Hardcover, with Scripture references",Rick Riordan,15237,4.8,12.2,Hardcover
+#6,Inferno,Charles Krauthammer,7789,4.7,11.87,Hardcover
+#7,"The House of Hades (Heroes of Olympus, Book 4)",F. Scott Fitzgerald,18661,4.0,6.79,Paperback
+#8,"Things That Matter: Three Decades of Passions, Pastimes and Politics [Deckled Edge]",Bill O'Reilly,13007,4.0,18.44,Hardcover
+#9,The Great Gatsby: The Only Authorized Edition,Eben Alexander,16907,4.4,12.79,Paperback
+#10,Killing Jesus (Bill O'Reilly's Killing Series),American Psychiatric Association,12114,4.7,144.0,Paperback
+#11,Proof of Heaven: A Neurosurgeon's Journey into the Afterlife,The College Board,1526,4.4,41.0,Paperback
+#12,"Diagnostic and Statistical Manual of Mental Disorders, 5th Edition: DSM-5",John Green,62076,4.7,11.06,Hardcover
+#13,The Official SAT Study Guide,Markus Zusak,34536,4.7,6.99,Paperback
+#14,The Fault in Our Stars,R. J. Palacio,35698,4.8,9.67,Hardcover
+#15,The Book Thief,Gary Chapman,7012,4.7,23.99,Paperback
+#16,Wonder,American Psychological Association,12674,4.0,24.29,Paperback
+#17,The 5 Love Languages: The Secret to Love That Lasts,Veronica Roth,9701,4.7,1.0,Paperback
+#18,"Publication Manual of the American Psychological Association, 6th Edition",Rob Elliott,10751,4.6,4.99,Paperback
+#19,Divergent,Dr. Seuss,42848,4.9,8.48,Hardcover
+#20,Laugh-Out-Loud Jokes for Kids,Malcolm Gladwell,7251,4.0,16.6,Hardcover
+#21,"Oh, the Places You'll Go!  ",George R.R. Martin,6354,4.6,54.98,Mass Market Paperback
+#22,"David and Goliath: Underdogs, Misfits, and the Art of Battling Giants",Veronica Roth,24591,3.9,12.04,Hardcover
+#23,Game of Thrones Boxed Set: A Game of Thrones/A Clash of Kings/A Storm of Swords/A Feast for Crows,Khaled Hosseini,17305,4.4,12.33,Hardcover
+#24,Allegiant,Brandon Stanton,5377,4.8,15.38,Hardcover
+#25,And the Mountains Echoed,Patrick Thorpe,9582,4.9,32.0,Hardcover
+#26,Humans of New York,Stephen King,23806,4.7,16.0,Hardcover
+#27,The Legend of Zelda: Hyrule Historia,Rob Elliott,5687,4.0,4.44,Paperback
+#28,Doctor Sleep: A Novel,Donna Tartt,42847,4.0,22.33,Hardcover
+#29,Knock-Knock Jokes for Kids (Laugh-Out-Loud Jokes for Kids),Don Miguel Ruiz,86679,4.7,7.74,Paperback
+#30,The Goldfinch: A Novel (Pulitzer Prize for Fiction),Gillian Flynn,66979,4.1,15.21,Hardcover
+#31,The Four Agreements: A Practical Guide to Personal Freedom (A Toltec Wisdom Book),Brian Kilmeade,6506,4.7,17.2,Hardcover
+#32,Gone Girl,Susan Cain,20015,4.6,13.47,Paperback
+#33,George Washington's Secret Six: The Spy Ring That Saved the American Revolution,Sherri Duskey Rinker,20089,4.9,14.48,Hardcover
+#34,Quiet: The Power of Introverts in a World That Can't Stop Talking,John Grisham,36463,4.6,14.61,Hardcover
+#35,"Goodnight, Goodnight Construction Site (Hardcover Books for Toddlers, Preschool Books for Kids)",William Davis,8638,4.4,13.96,Hardcover
+#36,Sycamore Row (Jake Brigance),Ree Drummond,4883,4.8,14.39,Hardcover
+#37,"Wheat Belly: Lose the Wheat, Lose the Weight, and Find Your Path Back to Health",Drew Daywalt,19897,4.8,9.19,Hardcover
+#38,"The Pioneer Woman Cooks―A Year of Holidays: 140 Step-by-Step Recipes for Simple, Scrumptious Celebrations",Phil Robertson,4798,4.8,13.15,Hardcover
+#39,The Day the Crayons Quit,Eric Carle,54008,4.9,4.93,Board book
+#40,"Happy, Happy, Happy: My Life and Legacy as the Duck Commander",Brené Brown,2913,4.8,12.9,Hardcover
+#41,The Very Hungry Caterpillar,Stephen R. Covey,1674,4.6,19.99,Paperback
+#42,"Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead",Stephen King,10724,4.6,9.66,Paperback
+#43,The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change,E L James,60233,4.0,13.99,Paperback
+#44,Joyland (Hard Case Crime),Zhi Gang Sha,278,4.6,14.05,Hardcover
+#45,"Fifty Shades Of Grey: Book One of the Fifty Shades Trilogy (Fifty Shades Of Grey Series, 1)",Ian K. Smith M.D.,3106,4.1,15.95,Hardcover
+#46,"Soul Healing Miracles: Ancient and New Sacred Wisdom, Knowledge, and Practical Techniques for Healing the Spiritual, Mental, Emotional, and Physical Bodies",Allie Brosh,7980,4.7,12.27,Paperback
+#47,Shred: The Revolutionary Diet: 6 Weeks 4 Inches 2 Sizes,Harper Lee,68849,4.8,17.36,Mass Market Paperback
+#48,"Hyperbole and a Half: Unfortunate Situations, Flawed Coping Mechanisms, Mayhem, and Other Things That Happened",Patrick Lencioni,6256,4.6,20.72,Hardcover
+#49,To Kill a Mockingbird,Laura Hillenbrand,33630,4.8,13.99,Hardcover
+#50,"The Five Dysfunctions of a Team: A Leadership Fable, 20th Anniversary Edition",Orson Scott Card,18399,4.6,21.5,Mass Market Paperback
+#51,"Unbroken: A World War II Story of Survival, Resilience, and Redemption",Brené Brown,29675,4.7,1.36,Paperback
+#52,Ender's Game (The Ender Quintet),Robert Galbraith,27926,4.2,16.68,Hardcover
+#53,The Gifts of Imperfection: Let Go of Who You Think You're Supposed to Be and Embrace Who You Are,Heidi Murkoff,29390,4.8,18.0,Paperback
+#54,"The Cuckoo's Calling (A Cormoran Strike Novel, 1)",Ben Carson  M.D.,3828,4.8,10.61,Paperback
+#55,What to Expect When You're Expecting,Mark R. Levin,4052,4.8,17.36,Hardcover
+#56,America the Beautiful: Rediscovering What Made This Nation Great,Reza Aslan,7011,4.4,16.5,Hardcover
+#57,The Liberty Amendments: Restoring the American Republic,Katherine Applegate,19873,4.8,11.8,Hardcover
+#58,ZEALOT: The Life and Times of Jesus of Nazareth,Jim Collins,5804,4.0,16.5,Hardcover
+#59,The One and Only Ivan,Si Robertson,2029,4.7,8.24,Hardcover
+#60,Good to Great: Why Some Companies Make the Leap and Others Don't,Gwyneth Paltrow,1418,4.4,24.78,Hardcover
+#61,SI-COLOGY 1: Tales and Wisdom from Duck Dynasty's Favorite Uncle,Malcolm Gladwell,22211,4.7,15.71,Paperback
+#62,"IT'S ALL GOOD: Delicious, Easy Recipes That Will Make You Look Good and Feel Great",Yotam Ottolenghi,5149,4.8,19.39,Hardcover
+#63,Outliers: The Story of Success,Kelly Starrett,1483,4.7,35.47,Hardcover
+#64,Jerusalem: A Cookbook,David Perlmutter MD,7760,4.6,9.64,Hardcover
+#65,"Becoming a Supple Leopard: Movement, Mobility, and Maintenance of the Human Animal",John Green,16844,4.6,8.99,Paperback
+#66,"Grain Brain: The Surprising Truth about Wheat, Carbs, and Sugar--Your Brain's Silent Killers",Malala Yousafzai,9853,4.6,13.71,Hardcover
+#67,Looking for Alaska,Robert Munsch,53161,4.9,4.98,Paperback
+#68,I Am Malala: The Girl Who Stood Up for Education and Was Shot by the Taliban,Stephen Chbosky,23935,4.7,12.69,Paperback
+#69,Love You Forever,Diane Sanfilippo,4391,4.6,14.5,Paperback
+#70,The Perks of Being a Wallflower,E L James,38222,4.6,19.49,Paperback
+#71,Practical Paleo: A Customized Approach to Health and a Whole-Foods Lifestyle,Dr Dr Michael Mosley,11174,4.3,13.32,Hardcover
+#72,Fifty Shades Trilogy (Fifty Shades of Grey / Fifty Shades Darker / Fifty Shades Freed),Sally Lloyd-Jones,11859,4.9,15.79,Hardcover
+#73,"The FastDiet: Lose Weight, Stay Healthy, and Live Longer with the Simple Secret of Intermittent Fasting",Veronica Roth,19457,4.6,15.99,Hardcover
+#74,The Jesus Storybook Bible: Every Story Whispers His Name,Dale Carnegie,79108,4.7,10.5,Paperback
+#75,Divergent / Insurgent,Doris Kearns Goodwin,2638,4.6,22.07,Hardcover
+#76,How to Win Friends & Influence People,Suzanne Collins,42773,4.7,11.69,Paperback
+#77,"The Bully Pulpit: Theodore Roosevelt, William Howard Taft, and the Golden Age of Journalism",Nick J. Tate,1003,3.8,9.2,Paperback
+#78,The Hunger Games (Book 1),Jonathan Cahn,19005,4.7,9.49,Paperback
+#79,ObamaCare Survival Guide: The Affordable Care Act and What It Means for You and Your Healthcare,Rebecca Skloot,16936,4.7,12.1,Paperback
+#80,The Harbinger: The Ancient Mystery that Holds the Secret of America's Future,Elie Wiesel,8573,4.7,5.49,Paperback
+#81,The Immortal Life of Henrietta Lacks,E L James,32887,4.0,13.99,Paperback
+#82,Night (Night),Joel Fuhrman MD,9946,4.0,12.99,Paperback
+#83,Fifty Shades Darker,Del Sroufe,13075,4.0,9.79,Paperback
+#84,"Eat to Live: The Amazing Nutrient-Rich Program for Fast and Sustained Weight Loss, Revised Edition",E L James,32376,4.0,13.88,Paperback
+#85,"Forks Over Knives―The Cookbook. A New York Times Bestseller: Over 300 Simple and Delicious Plant-Based Recipes to Help You Lose Weight, Be Healthier, and Feel Better Every Day",Paulo Coelho,3816,4.7,25.0,Paperback
+#86,"Fifty Shades Freed: Book Three of the Fifty Shades Trilogy (Fifty Shades of Grey Series) (English Edition) (Fifty Shades Of Grey Series, 3)",J.D. Salinger,30929,4.0,8.99,Mass Market Paperback
+#87,The Alchemist,Gallup,7078,4.1,18.29,Hardcover
+#88,The Catcher in the Rye,RH Disney,7175,4.8,0.99,Hardcover
+#1,StrengthsFinder 2.0,Rob Elliott,10751,4.6,4.99,Paperback
+#2,Frozen (Little Golden Book),John Green,62076,4.7,6.1,Paperback
+#3,Laugh-Out-Loud Jokes for Kids,Jeff Kinney,13520,4.8,11.99,Hardcover
+#4,The Fault in Our Stars,Randall Munroe,18841,4.7,13.3,Hardcover
+#5,Diary of a Wimpy Kid: The Long Haul,Rick Riordan,15172,4.8,11.49,Hardcover
+#6,What If?: Serious Scientific Answers to Absurd Hypothetical Questions,Sarah Young,31196,4.9,7.53,Hardcover
+#7,"The Blood of Olympus (The Heroes of Olympus, 5)",Laura Hillenbrand,33630,4.8,12.79,Paperback
+#8,"Jesus Calling, Padded Hardcover, with Scripture references",DK,4836,4.6,6.99,Paperback
+#9,"Unbroken: A World War II Story of Survival, Resilience, and Redemption",Drew Daywalt,19897,4.8,9.19,Hardcover
+#10,Ultimate Sticker Book: Frozen: More Than 60 Reusable Full-Color Stickers,Veronica Roth,9701,4.7,1.0,Paperback
+#11,The Day the Crayons Quit,John Green,62076,4.7,11.06,Hardcover
+#12,Divergent,Dr. Seuss,42848,4.9,8.48,Hardcover
+#13,The Fault in Our Stars,Harper Lee,68849,4.8,17.36,Mass Market Paperback
+#14,"Oh, the Places You'll Go!  ",Gillian Flynn,66979,4.1,15.99,Paperback
+#15,To Kill a Mockingbird,Markus Zusak,34536,4.7,6.99,Paperback
+#16,Gone Girl,The College Board,1526,4.4,41.0,Paperback
+#17,The Book Thief,Brandon Stanton,5377,4.8,15.38,Hardcover
+#18,The Official SAT Study Guide,Donna Tartt,42847,4.0,22.33,Hardcover
+#19,Humans of New York,American Psychiatric Association,12114,4.7,144.0,Paperback
+#20,The Goldfinch: A Novel (Pulitzer Prize for Fiction),R. J. Palacio,35698,4.8,9.67,Hardcover
+#21,"Diagnostic and Statistical Manual of Mental Disorders, 5th Edition: DSM-5",B. J. Novak,16881,4.8,9.9,Hardcover
+#22,Wonder,Rush Limbaugh,5033,4.9,9.99,Hardcover
+#23,The Book with No Pictures,Gary Chapman,7012,4.7,23.99,Paperback
+#24,Rush Revere and the First Patriots: Time-Travel Adventures With Exceptional Americans (2),Rob Elliott,5687,4.0,4.44,Paperback
+#25,The 5 Love Languages: The Secret to Love That Lasts,RH Disney,1094,4.6,1.33,Paperback
+#26,Knock-Knock Jokes for Kids (Laugh-Out-Loud Jokes for Kids),American Psychological Association,12674,4.0,24.29,Paperback
+#27,JOURNEY TO THE ICE P,Alice Schertle,1958,4.9,9.99,Board book
+#28,"Publication Manual of the American Psychological Association, 6th Edition",Ina Garten,2226,4.6,17.4,Hardcover
+#29,Little Blue Truck,Roger Priddy,35236,4.7,4.78,Board book
+#30,Make It Ahead: A Barefoot Contessa Cookbook,Gayle Forman,9995,4.4,9.99,Paperback
+#31,First 100 Words: A Padded Board Book,George R. R. Martin,33325,4.7,25.64,Mass Market Paperback
+#32,If I Stay,Veronica Roth,19457,4.6,15.99,Hardcover
+#33,A Game of Thrones / A Clash of Kings / A Storm of Swords / A Feast of Crows / A Dance with Dragons,Thomas Piketty,4573,4.0,19.38,Hardcover
+#34,Divergent / Insurgent,Christina Baker Kline,25200,4.6,11.78,Paperback
+#35,Capital in the Twenty First Century,Carol S. Dweck,13911,4.6,8.55,Paperback
+#36,Orphan Train,Dale Carnegie,79108,4.7,10.5,Paperback
+#37,Mindset: The New Psychology of Success,Eric Carle,54008,4.9,4.93,Board book
+#38,How to Win Friends & Influence People,Anthony Doerr,67295,4.6,18.98,Hardcover
+#39,The Very Hungry Caterpillar,David Perlmutter MD,7760,4.6,9.64,Hardcover
+#40,All the Light We Cannot See,Laura Hillenbrand,33630,4.8,13.99,Hardcover
+#41,"Grain Brain: The Surprising Truth about Wheat, Carbs, and Sugar--Your Brain's Silent Killers",Thug Kitchen,14417,4.6,25.99,Hardcover
+#42,"Unbroken: A World War II Story of Survival, Resilience, and Redemption",Paulo Coelho,3816,4.7,25.0,Paperback
+#43,Thug Kitchen: The Official Cookbook: Eat Like You Give a F*ck (Thug Kitchen Cookbooks),John Green,16844,4.6,8.99,Paperback
+#44,The Alchemist,F. Scott Fitzgerald,18661,4.0,6.79,Paperback
+#45,Looking for Alaska,Daniel James Brown,31128,4.8,14.03,Paperback
+#46,The Great Gatsby: The Only Authorized Edition,Robert Munsch,53161,4.9,4.98,Paperback
+#47,The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics,James Dashner,15611,4.6,9.57,Paperback
+#48,Love You Forever,Veronica Roth,24591,3.9,12.04,Hardcover
+#49,The Maze Runner (Book 1),Amy Poehler,5531,4.3,15.99,Hardcover
+#51,Allegiant,Patrick Lencioni,6256,4.6,20.72,Hardcover
+#52,Yes Please,Don Miguel Ruiz,86679,4.7,7.74,Paperback
+#53,"The Five Dysfunctions of a Team: A Leadership Fable, 20th Anniversary Edition",Stephen R. Covey,9187,4.7,18.39,Paperback
+#54,The Four Agreements: A Practical Guide to Personal Freedom (A Toltec Wisdom Book),George W. Bush,2722,4.7,9.98,Hardcover
+#55,The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change,Stephanie Milton,1410,4.8,65.0,Hardcover
+#56,41: A Portrait of My Father,Melissa Lagonegro,1123,4.6,4.99,Paperback
+#57,Minecraft: The Complete Handbook Collection,Rush Limbaugh,9349,4.9,10.25,Hardcover
+#58,Frozen: A Tale of Two Sisters,Brené Brown,29675,4.7,1.36,Paperback
+#59,Rush Revere and the Brave Pilgrims: Time-Travel Adventures with Exceptional Americans (1),Veronica Roth,3064,4.7,62.5,Hardcover
+#60,The Gifts of Imperfection: Let Go of Who You Think You're Supposed to Be and Embrace Who You Are,Todd Burpo,17368,4.7,10.24,Paperback
+#61,Divergent / Insurgent / Allegiant,Michael Lewis,6241,4.6,16.73,Hardcover
+#62,Heaven is for Real: A Little Boy's Astounding Story of His Trip to Heaven and Back,Rush Limbaugh,4504,4.9,9.99,Hardcover
+#63,Flash Boys,Rod Campbell,26342,4.8,5.0,Board book
+#64,Rush Revere and the American Revolution: Time-Travel Adventures With Exceptional Americans,Sandra Boynton,15393,4.8,3.97,Board book
+#65,Dear Zoo: A Lift-the-Flap Book,George R. R. Martin,7640,4.8,53.99,Hardcover
+#66,The Going-To-Bed Book,ACT,804,4.4,1.95,Paperback
+#67,The World of Ice & Fire: The Untold History of Westeros and the Game of Thrones,John Grisham,28297,4.1,16.21,Hardcover
+#68,The Real ACT Prep Guide,Heidi Murkoff,29390,4.8,18.0,Paperback
+#69,Gray Mountain: A Novel,Sally Lloyd-Jones,11859,4.9,15.79,Hardcover
+#70,What to Expect When You're Expecting,Sheryl Sandberg,8182,4.0,13.72,Hardcover
+#71,The Jesus Storybook Bible: Every Story Whispers His Name,Sue Monk Kidd,19656,4.7,19.3,Hardcover
+#72,"Lean In: Women, Work, and the Will to Lead",William Golding,31817,4.6,5.99,Mass Market Paperback
+#73,The Invention of Wings,Elie Wiesel,8573,4.7,5.49,Paperback
+#74,Lord of the Flies,J.D. Salinger,30929,4.0,8.99,Mass Market Paperback
+#75,Night (Night),Zhi Gang Sha,278,4.6,14.05,Hardcover
+#76,The Catcher in the Rye,Valorie Schaefer,24539,4.8,9.48,Paperback
+#77,"Soul Healing Miracles: Ancient and New Sacred Wisdom, Knowledge, and Practical Techniques for Healing the Spiritual, Mental, Emotional, and Physical Bodies",Gina Homolka,8256,4.7,17.69,Hardcover
+#78,"The Care and Keeping of You: The Body Book for Younger Girls, Revised Edition (American Girl Library)",Ray Bradbury,34958,4.6,8.29,Paperback
+#79,"The Skinnytaste Cookbook: Light on Calories, Big on Flavor",Sherri Duskey Rinker,20089,4.9,14.48,Hardcover
+#80,Fahrenheit 451,John Green,10316,4.4,7.68,Paperback
+#81,"Goodnight, Goodnight Construction Site (Hardcover Books for Toddlers, Preschool Books for Kids)",Tom Robinson,6281,4.6,7.5,Paperback
+#82,Paper Towns,George Orwell,72444,4.7,7.48,Mass Market Paperback
+#83,"The Everything Kids' Science Experiments Book: Boil Ice, Float Water, Measure Gravity-Challenge the World Around You!",S. E. Hinton,30584,4.8,9.49,Paperback
+#84,1984,Tony Robbins,10710,4.6,14.86,Hardcover
+#85,The Outsiders,Margaret Wise Brown,24815,4.9,5.36,Board book
+#86,MONEY Master the Game: 7 Simple Steps to Financial Freedom,Susan Cain,20015,4.6,13.47,Paperback
+#87,Goodnight Moon,Stephen King,11361,4.3,23.3,Hardcover
+#88,Quiet: The Power of Introverts in a World That Can't Stop Talking,Giles Andreae,28447,4.8,6.9,Board book
+#89,Revival: A Novel,Scholastic,842,4.7,18.23,Hardcover
+#90,Giraffes Can't Dance,John Steinbeck,25438,4.7,9.99,Mass Market Paperback
+#91,Minecraft: Redstone Handbook: An Official Mojang Book,JJ Smith,32825,4.7,25.73,Paperback
+#92,Of Mice and Men,Kerry Patterson,9891,4.7,19.7,Paperback
+#93,10-Day Green Smoothie Cleanse: Lose Up to 15 Pounds in 10 Days!,Frank Berrios,734,4.6,3.99,Paperback
+#94,"Crucial Conversations Tools for Talking When Stakes Are High, Second Edition",Lois Lowry,26262,4.7,17.1,Mass Market Paperback
+#95,A Day in the Sun (Disney Frozen) (Pictureback(R)),Roger Priddy,35236,4.7,4.78,Board book
+#96,The Giver (Giver Quartet),Marie Kondō,28106,4.0,8.32,Hardcover
+#1,First 100 Words: A Padded Board Book,Rob Elliott,10751,4.6,4.99,Paperback
+#2,The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing,Johanna Basford,15022,4.7,9.99,Paperback
+#3,Laugh-Out-Loud Jokes for Kids,Gallup,7078,4.1,18.29,Hardcover
+#4,Secret Garden: An Inky Treasure Hunt and Coloring Book for Adults,Harper Lee,18593,3.7,15.83,Hardcover
+#5,StrengthsFinder 2.0,Johanna Basford,8106,4.7,12.15,Paperback
+#6,Go Set a Watchman: A Novel,Anthony Doerr,67295,4.6,18.98,Hardcover
+#7,"Enchanted Forest: An Inky Quest and Coloring book (Activity Books, Mindfulness and Meditation, Illustrated Floral Prints)",Paula Hawkins,91516,4.1,14.24,Hardcover
+#8,All the Light We Cannot See,Blue Star Coloring,4253,4.0,6.91,Paperback
+#9,The Girl on the Train,Jeff Kinney,14244,4.8,8.78,Hardcover
+#10,Adult Coloring Book: Stress Relieving Patterns,Harper Lee,68849,4.8,17.36,Mass Market Paperback
+#11,Diary of a Wimpy Kid #10: Old School,Blue Star Coloring,3924,4.6,7.99,Paperback
+#12,To Kill a Mockingbird,Coloring Books for Adults,3138,4.0,8.49,Paperback
+#13,Adult Coloring Book: Stress Relieving Animal Designs,Brandon Stanton,5061,4.9,16.12,Hardcover
+#14,"Adult Coloring Books: A Coloring Book for Adults Featuring Mandalas and Henna Inspired Flowers, Animals, and Paisley Patterns",Andy Weir,51405,4.7,10.41,Paperback
+#15,Humans of New York : Stories,Dr. Seuss,42848,4.9,8.48,Hardcover
+#16,The Martian,Rob Elliott,5687,4.0,4.44,Paperback
+#17,"Oh, the Places You'll Go!  ",Rod Campbell,26342,4.8,5.0,Board book
+#18,Knock-Knock Jokes for Kids (Laugh-Out-Loud Jokes for Kids),Drew Daywalt,19897,4.8,9.19,Hardcover
+#19,Dear Zoo: A Lift-the-Flap Book,Daniel James Brown,31128,4.8,14.03,Paperback
+#20,The Day the Crayons Quit,Sarah Young,31196,4.9,7.53,Hardcover
+#21,The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics,Carol S. Dweck,13911,4.6,8.55,Paperback
+#22,"Jesus Calling, Padded Hardcover, with Scripture references",E L James,37801,4.0,12.76,Paperback
+#23,Mindset: The New Psychology of Success,Marjorie Sarnat,5114,4.8,5.99,Paperback
+#24,"Grey: Fifty Shades of Grey as Told by Christian (Fifty Shades Of Grey Series, 4)",Dale Carnegie,79108,4.7,10.5,Paperback
+#25,Creative Haven Creative Cats Coloring Book (Adult Coloring),Gary Chapman,69869,4.8,7.57,Paperback
+#26,How to Win Friends & Influence People,Angie Grace,2270,4.6,11.95,Paperback
+#27,The 5 Love Languages: The Secret to Love that Lasts,Marjorie Sarnat,5204,4.7,5.38,Paperback
+#28,Balance (Angie’s Extreme Stress Menders),Thug Kitchen,14417,4.6,25.99,Hardcover
+#29,Creative Haven Owls Coloring Book (Adult Coloring),Giles Andreae,28447,4.8,6.9,Board book
+#30,Thug Kitchen: The Official Cookbook: Eat Like You Give a F*ck (Thug Kitchen Cookbooks),R. J. Palacio,35698,4.8,9.67,Hardcover
+#31,Giraffes Can't Dance,Stephen R. Covey,9187,4.7,18.39,Paperback
+#32,Wonder,Don Miguel Ruiz,86679,4.7,7.74,Paperback
+#33,The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change,Atul Gawande,19284,4.8,16.0,Hardcover
+#34,The Four Agreements: A Practical Guide to Personal Freedom (A Toltec Wisdom Book),Robert Munsch,53161,4.9,4.98,Paperback
+#35,Being Mortal: Medicine and What Matters in the End,Eric Carle,54008,4.9,4.93,Board book
+#36,Love You Forever,American Psychological Association,12674,4.0,24.29,Paperback
+#37,The Very Hungry Caterpillar,Ta-Nehisi Coates,20038,4.7,12.92,Hardcover
+#38,"Publication Manual of the American Psychological Association, 6th Edition",DK,10668,4.7,5.67,Board book
+#39,Between the World and Me,B. J. Novak,16881,4.8,9.9,Hardcover
+#40,Baby Touch and Feel: Animals,David McCullough,7924,4.7,14.5,Hardcover
+#41,The Book with No Pictures,Marty Noble,2601,4.6,5.38,Paperback
+#42,The Wright Brothers,Kristin Hannah,99959,4.8,16.26,Hardcover
+#43,Dover Creative Haven Art Nouveau Animal Designs Coloring Book (Creative Haven Coloring Books),Ree Drummond,8083,4.8,14.44,Hardcover
+#44,The Nightingale: A Novel,Dr. Seuss,6169,4.8,8.73,Hardcover
+#45,"The Pioneer Woman Cooks: Dinnertime - Comfort Classics, Freezer Food, 16-minute Meals, and Other Delicious Ways to Solve Supper",Zack Zombie,12855,4.7,5.71,Paperback
+#46,What Pet Should I Get? (Classic Seuss),F. Scott Fitzgerald,18661,4.0,6.79,Paperback
+#51,Diary of a Minecraft Zombie Book 1: A Scare of A Dare,Johanna Basford,8066,4.7,14.95,Paperback
+#52,The Great Gatsby: The Only Authorized Edition,Patrick Lencioni,6256,4.6,20.72,Hardcover
+#53,Lost Ocean: An Inky Adventure and Coloring Book for Adults,The College Board,1526,4.4,41.0,Paperback
+#54,"The Five Dysfunctions of a Team: A Leadership Fable, 20th Anniversary Edition",JJ Smith,32825,4.7,9.05,Paperback
+#55,The Official SAT Study Guide,Brené Brown,29675,4.7,1.36,Paperback
+#56,10-Day Green Smoothie Cleanse,Bill Martin Jr.,33564,4.9,4.59,Board book
+#57,The Gifts of Imperfection: Let Go of Who You Think You're Supposed to Be and Embrace Who You Are,Drew Daywalt,5389,4.9,13.63,Hardcover
+#58,Chicka Chicka Boom Boom (Board Book),Randall Munroe,18841,4.7,13.3,Hardcover
+#59,The Day the Crayons Came Home,John Green,10316,4.4,7.68,Paperback
+#60,What If?: Serious Scientific Answers to Absurd Hypothetical Questions,Laura Hillenbrand,33630,4.8,12.79,Paperback
+#61,Paper Towns,Laurence J. Kotlikoff,3094,4.2,12.0,Hardcover
+#62,"Unbroken: A World War II Story of Survival, Resilience, and Redemption",Rick Riordan,7465,4.7,11.46,Hardcover
+#63,Get What's Yours: The Secrets to Maxing Out Your Social Security (The Get What's Yours Series),Adam Rubin,15753,4.8,8.95,Hardcover
+#64,"Magnus Chase and the Gods of Asgard, Book 1: The Sword of Summer (Magnus Chase and the Gods of Asgard, 1)",Ray Bradbury,34958,4.6,8.29,Paperback
+#65,Dragons Love Tacos,Valorie Schaefer,24539,4.8,9.48,Paperback
+#66,Fahrenheit 451,Leslie Patricelli,12933,4.7,7.99,Board book
+#67,"The Care and Keeping of You: The Body Book for Younger Girls, Revised Edition (American Girl Library)",Randall Munroe,3834,4.6,22.49,Hardcover
+#68,Potty (Leslie Patricelli board books),Erik Larson,11006,4.6,19.71,Hardcover
+#69,Thing Explainer: Complicated Stuff in Simple Words,Sandra Boynton,15393,4.8,3.97,Board book
+#70,Dead Wake: The Last Crossing of the Lusitania,Ali Maffucci,3754,4.4,12.88,Paperback
+#71,The Going-To-Bed Book,Alberta Hutchinson,2944,4.0,3.99,Paperback
+#72,"Inspiralized: Turn Vegetables into Healthy, Creative, Satisfying Meals: A Cookbook",American Psychiatric Association,12114,4.7,144.0,Paperback
+#73,Mystical Mandala Coloring Book (Dover Mandala Coloring Books),DK,4836,4.6,6.99,Paperback
+#74,"Diagnostic and Statistical Manual of Mental Disorders, 5th Edition: DSM-5",Phil McGraw,8306,4.0,12.74,Hardcover
+#75,Ultimate Sticker Book: Frozen: More Than 60 Reusable Full-Color Stickers,Elie Wiesel,8573,4.7,5.49,Paperback
+#76,The 20/20 Diet: Turn Your Weight Loss Vision Into Reality,Heidi Murkoff,29390,4.8,18.0,Paperback
+#77,Night (Night),Sally Lloyd-Jones,11859,4.9,15.79,Hardcover
+#78,What to Expect When You're Expecting,David Brooks,3074,4.4,12.99,Hardcover
+#79,The Jesus Storybook Bible: Every Story Whispers His Name,Karen Katz,12738,4.8,4.98,Board book
+#80,The Road to Character,Paulo Coelho,94761,4.7,13.29,Paperback
+#81,Where Is Baby's Belly Button? A Lift-the-Flap Book,Sam McBratney,5890,4.8,13.95,Board book
+#82,"The Alchemist, 25th Anniversary: A Fable About Following Your Dream",Valentina Harper,1797,4.7,9.99,Paperback
+#83,Guess How Much I Love You,Alice Schertle,1958,4.9,9.99,Board book
+#84,"Creative Coloring Inspirations: Art Activity Pages to Relax and Enjoy! (Design Originals) 30 Motivating & Creative Art Activities on High-Quality, Extra-Thick Perforated Pages that Won't Bleed Through",S. E. Hinton,30584,4.8,9.49,Paperback
+#85,Little Blue Truck,Daniel Kahneman,29734,4.6,11.29,Paperback
+#86,The Outsiders,Tom Robinson,6281,4.6,7.5,Paperback
+#87,"Thinking, Fast and Slow",J.K. Rowling,43339,4.3,11.46,Hardcover
+#88,"The Everything Kids' Science Experiments Book: Boil Ice, Float Water, Measure Gravity-Challenge the World Around You!",Gallup,7078,4.1,18.29,Hardcover
+#1,"Harry Potter and the Cursed Child, Parts 1 & 2, Special Rehearsal Edition Script",Roger Priddy,35236,4.7,4.78,Board book
+#2,StrengthsFinder 2.0,Marie Kondō,28106,4.0,8.32,Hardcover
+#3,First 100 Words: A Padded Board Book,Dr. Seuss,42848,4.9,8.48,Hardcover
+#4,The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing,Jeff Kinney,14028,4.8,14.25,Hardcover
+#5,"Oh, the Places You'll Go!  ",Paul Kalanithi,29339,4.8,12.77,Hardcover
+#6,Diary of a Wimpy Kid #11: Double Down,Giles Andreae,28447,4.8,6.9,Board book
+#7,When Breath Becomes Air,Gary Chapman,69869,4.8,7.57,Paperback
+#8,Giraffes Can't Dance,Melissa Hartwig Urban,15538,4.6,14.68,Hardcover
+#9,The 5 Love Languages: The Secret to Love that Lasts,Fredrik Backman,57001,4.7,7.63,Paperback
+#10,The Whole30: The 30-Day Guide to Total Health and Food Freedom,Bill O'Reilly,11308,4.8,11.7,Hardcover
+#11,A Man Called Ove: A Novel,Dale Carnegie,79108,4.7,10.5,Paperback
+#12,Killing the Rising Sun: How America Vanquished World War II Japan (Bill O'Reilly's Killing Series),Chip Gaines,10133,4.8,12.07,Hardcover
+#13,How to Win Friends & Influence People,Rob Elliott,10751,4.6,4.99,Paperback
+#14,The Magnolia Story,Harper Lee,68849,4.8,17.36,Mass Market Paperback
+#15,Laugh-Out-Loud Jokes for Kids,J. D. Vance,29400,4.0,12.45,Hardcover
+#16,To Kill a Mockingbird,J.K. Rowling,9202,4.7,13.4,Hardcover
+#17,Hillbilly Elegy: A Memoir of a Family and Culture in Crisis,Lin-Manuel Miranda,13106,4.9,23.69,Hardcover
+#18,Fantastic Beasts and Where to Find Them: The Original Screenplay (Harry Potter),Paula Hawkins,91516,4.1,10.33,Paperback
+#19,Hamilton: The Revolution,Carol S. Dweck,13911,4.6,8.55,Paperback
+#20,The Girl on the Train,The College Board,1089,4.4,2.61,Paperback
+#21,Mindset: The New Psychology of Success,Ray Bradbury,34958,4.6,8.29,Paperback
+#22,"The Official SAT Study Guide, 2016 Edition",Robert Munsch,53161,4.9,4.98,Paperback
+#51,Fahrenheit 451,Patrick Lencioni,6256,4.6,20.72,Hardcover
+#52,Love You Forever,Anthony Doerr,67295,4.6,18.98,Hardcover
+#53,The Great Gatsby: The Only Authorized Edition,Bill Martin Jr.,47136,4.9,4.55,Board book
+#54,"The Five Dysfunctions of a Team: A Leadership Fable, 20th Anniversary Edition",Paulo Coelho,94761,4.7,13.29,Paperback
+#55,All the Light We Cannot See,Priscilla Shirer,10074,4.9,11.89,Paperback
+#56,"Brown Bear, Brown Bear, What Do You See?",John Grisham,42274,4.4,24.5,Hardcover
+#57,"The Alchemist, 25th Anniversary: A Fable About Following Your Dream",Ann Whitford Paul,69538,4.8,4.14,Board book
+#58,"Fervent: A Woman's Battle Plan to Serious, Specific and Strategic Prayer",Ina Garten,2405,4.7,15.9,Hardcover
+#59,The Whistler,Rick Riordan,9970,4.7,11.29,Hardcover
+#60,If Animals Kissed Good Night,Rob Elliott,5687,4.0,4.44,Paperback
+#61,Cooking for Jeffrey: A Barefoot Contessa Cookbook,Golden Books,12970,4.8,4.02,Hardcover
+#62,"The Trials of Apollo, Book 1: The Hidden Oracle (Trials of Apollo, 1)",Brené Brown,29675,4.7,1.36,Paperback
+#63,Knock-Knock Jokes for Kids (Laugh-Out-Loud Jokes for Kids),Gary J. Byrne,7693,4.2,14.0,Hardcover
+#64,Puppy Birthday to You! (Paw Patrol) (Little Golden Book),Roger Priddy,9440,4.8,5.99,Board book
+#65,The Gifts of Imperfection: Let Go of Who You Think You're Supposed to Be and Embrace Who You Are,Coloring Books for Adults,3138,4.0,8.49,Paperback
+#66,"Crisis of Character: A White House Secret Service Officer Discloses His Firsthand Experience with Hillary, Bill, and How They Operate",Margaret Wise Brown,24815,4.9,5.36,Board book
+#67,First 100 Animals,Brené Brown,11620,4.8,9.87,Paperback
+#68,"Adult Coloring Books: A Coloring Book for Adults Featuring Mandalas and Henna Inspired Flowers, Animals, and Paisley Patterns",Ransom Riggs,13222,4.0,9.89,Paperback
+#69,Goodnight Moon,Angela Duckworth,12517,4.6,13.63,Hardcover
+#70,"Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead",Travis Bradberry,10429,4.0,14.98,Hardcover
+#71,Miss Peregrine's Home for Peculiar Children (Miss Peregrine's Peculiar Children),Colson Whitehead,21294,4.0,13.5,Hardcover
+#72,Grit: The Power of Passion and Perseverance,S. E. Hinton,30584,4.8,9.49,Paperback
+#73,Emotional Intelligence 2.0,J. Kenji López-Alt,9022,4.9,27.99,Hardcover
+#74,The Underground Railroad (Pulitzer Prize Winner) (National Book Award Winner) (Oprah's Book Club): A Novel,Jojo Moyes,1224,4.6,17.14,Paperback
+#75,The Outsiders,Bill Martin Jr.,33564,4.9,4.59,Board book
+#76,The Food Lab: Better Home Cooking Through Science,Valorie Schaefer,24539,4.8,9.48,Paperback
+#77,Me Before You: A Novel (Movie Tie-In),Leslie Patricelli,12933,4.7,7.99,Board book
+#78,Chicka Chicka Boom Boom (Board Book),Timothy Ferriss,7920,4.7,20.58,Hardcover
+#79,"The Care and Keeping of You: The Body Book for Younger Girls, Revised Edition (American Girl Library)",Roger Priddy,7034,4.8,5.59,Hardcover
+#80,Potty (Leslie Patricelli board books),Thaneeya McArdle,7275,4.7,8.08,Paperback
+#81,"Tools Of Titans: The Tactics, Routines, and Habits of Billionaires, Icons, and World-Class Performers",Laurel Randolph,12578,4.4,8.97,Paperback
+#82,"First 100 Padded: Numbers, Colors, Shapes",Darlene Schacht,1577,4.0,9.99,Paperback
+#83,Good Vibes Coloring Book (Coloring is Fun) (Design Originals): 30 Beginner-Friendly & Relaxing Creative Art Activities; Positive Messages & Inspirational Quotes; Perforated Paper Resists Bleed Through,B. J. Novak,16881,4.8,9.9,Hardcover
+#84,The Instant Pot Electric Pressure Cooker Cookbook: Easy Recipes for Fast & Healthy Meals,Marjorie Sarnat,5204,4.7,5.38,Paperback
+#85,Quieting Your Heart: 6-Month Bible-Study Journal,Rick Riordan,6469,4.7,9.09,Hardcover
+#86,The Book with No Pictures,Johanna Basford,15022,4.7,9.99,Paperback
+#87,Creative Haven Owls Coloring Book (Adult Coloring),J.K. Rowling,5120,4.8,6.98,Paperback
+#88,"Magnus Chase and the Gods of Asgard, Book 2 The Hammer of Thor (Magnus Chase and the Gods of Asgard, Book 2) (Magnus Chase and the Gods of Asgard, 2)",Adam Rubin,15753,4.8,8.95,Hardcover
+#89,Secret Garden: An Inky Treasure Hunt and Coloring Book for Adults,Dungeons & Dragons,45652,4.9,22.95,Hardcover
+#90,Harry Potter and the Sorcerer's Stone,Tom Robinson,6281,4.6,7.5,Paperback
+#91,Dragons Love Tacos,George Orwell,72444,4.7,7.48,Mass Market Paperback
+#92,D&D Player’s Handbook (Dungeons & Dragons Core Rulebook),Lois Lowry,26262,4.7,8.48,Paperback
+#93,"The Everything Kids' Science Experiments Book: Boil Ice, Float Water, Measure Gravity-Challenge the World Around You!",R. J. Palacio,35698,4.8,9.67,Hardcover
+#94,1984,Rupi Kaur,46408,4.7,7.38,Paperback
+#95,"The Giver (Giver Quartet, 1)",Giles Andreae,28447,4.8,6.9,Board book
+#1,Wonder,Jeff Kinney,17171,4.8,9.89,Hardcover
+#2,Milk and Honey,Laurel Randolph,12578,4.4,8.97,Paperback
+#3,Giraffes Can't Dance,J. D. Vance,29400,4.0,12.45,Hardcover
+#4,The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life,Neil deGrasse Tyson,20795,4.7,9.49,Hardcover
+#5,The Getaway,Roger Priddy,35236,4.7,4.78,Board book
+#6,The Instant Pot Electric Pressure Cooker Cookbook: Easy Recipes for Fast & Healthy Meals,Melissa Hartwig Urban,15538,4.6,14.68,Hardcover
+#7,Hillbilly Elegy: A Memoir of a Family and Culture in Crisis,Margaret Atwood,60683,4.4,14.35,Paperback
+#8,Astrophysics for People in a Hurry,Gary Chapman,69869,4.8,7.57,Paperback
+#9,First 100 Words: A Padded Board Book,Jen Sincero,35414,4.7,8.45,Paperback
+#10,The Whole30: The 30-Day Guide to Total Health and Food Freedom,Hillary Rodham Clinton,6911,4.6,9.99,Hardcover
+#11,The Handmaid's Tale,Dr. Seuss,42848,4.9,8.48,Hardcover
+#12,The 5 Love Languages: The Secret to Love that Lasts,Admiral William H. McRaven,29868,4.7,11.58,Hardcover
+#13,You Are a Badass: How to Stop Doubting Your Greatness and Start Living an Awesome Life,George Orwell,72444,4.7,7.48,Mass Market Paperback
+#14,What Happened,Dale Carnegie,79108,4.7,10.5,Paperback
+#15,"Oh, the Places You'll Go!  ",Dan Brown,36242,4.4,13.39,Hardcover
+#16,Make Your Bed: Little Things That Can Change Your Life...And Maybe the World,Fredrik Backman,57001,4.7,7.63,Paperback
+#17,1984,Rupi Kaur,16958,4.8,9.0,Paperback
+#18,How to Win Friends & Influence People,Rod Campbell,26342,4.8,5.0,Board book
+#19,Origin: A Novel (Robert Langdon),Don Miguel Ruiz,86679,4.7,7.74,Paperback
+#20,A Man Called Ove: A Novel,Sandra Boynton,15393,4.8,3.97,Board book
+#21,The Sun and Her Flowers,Gallup,7078,4.1,18.29,Hardcover
+#22,Dear Zoo: A Lift-the-Flap Book,Emily Winfield Martin,25148,4.9,8.55,Hardcover
+#23,The Four Agreements: A Practical Guide to Personal Freedom (A Toltec Wisdom Book),William P. Young,23392,4.7,13.4,Paperback
+#24,The Going-To-Bed Book,Marie Kondō,28106,4.0,8.32,Hardcover
+#25,StrengthsFinder 2.0,Sheryl Sandberg,3057,4.0,15.29,Hardcover
+#26,The Wonderful Things You Will Be,Thug Kitchen,14417,4.6,25.99,Hardcover
+#27,The Shack: Where Tragedy Confronts Eternity,Amor Towles,50214,4.6,14.48,Hardcover
+#28,The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing,American Psychological Association,12674,4.0,24.29,Paperback
+#29,"Option B: Facing Adversity, Building Resilience, and Finding Joy",Margaret Wise Brown,24815,4.9,5.36,Board book
+#30,Thug Kitchen: The Official Cookbook: Eat Like You Give a F*ck (Thug Kitchen Cookbooks),Jay Asher,13727,4.0,8.39,Paperback
+#31,A Gentleman in Moscow: A Novel,Walter Isaacson,6541,4.6,17.91,Hardcover
+#32,"Publication Manual of the American Psychological Association, 6th Edition",Deborah Diesen,23576,4.9,4.98,Board book
+#33,Goodnight Moon,Mr. Jim Kay,13877,4.9,20.19,Hardcover
+#34,Thirteen Reasons Why,Ann Whitford Paul,69538,4.8,4.14,Board book
+#35,Leonardo da Vinci,Bill Martin Jr.,47136,4.9,4.55,Board book
+#36,The Pout-Pout Fish,Dungeons & Dragons,45652,4.9,22.95,Hardcover
+#37,Harry Potter and the Prisoner of Azkaban: The Illustrated Edition (3),Eric Carle,54008,4.9,4.93,Board book
+#38,If Animals Kissed Good Night,Golden Books,12970,4.8,4.02,Hardcover
+#39,"Brown Bear, Brown Bear, What Do You See?",Rob Elliott,10751,4.6,4.99,Paperback
+#40,D&D Player’s Handbook (Dungeons & Dragons Core Rulebook),Timothy Ferriss,7920,4.7,20.58,Hardcover
+#41,The Very Hungry Caterpillar,Adam Gasiewski,6305,4.0,7.99,Paperback
+#42,Puppy Birthday to You! (Paw Patrol) (Little Golden Book),Ernest Cline,45968,4.7,11.0,Paperback
+#43,Laugh-Out-Loud Jokes for Kids,Dav Pilkey,16128,4.9,1.57,Hardcover
+#44,"Tools Of Titans: The Tactics, Routines, and Habits of Billionaires, Icons, and World-Class Performers",Pete Souza,10039,4.9,25.0,Hardcover
+#45,Milk and Vine: Inspirational Quotes From Classic Vines,Stephen R. Covey,9187,4.7,18.39,Paperback
+#46,Ready Player One: A Novel,David Grann,21829,4.6,14.59,Hardcover
+#47,Dog Man: A Tale of Two Kitties: From the Creator of Captain Underpants (Dog Man #3),Valorie Schaefer,24539,4.8,9.48,Paperback
+#48,Obama: An Intimate Portrait,Lysa TerKeurst,9505,4.7,8.47,Paperback
+#49,The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change,Liane Moriarty,32079,4.6,9.94,Paperback
+#50,Killers of the Flower Moon: The Osage Murders and the Birth of the FBI,The College Board,2345,4.0,5.21,Paperback
+#51,"The Care and Keeping of You: The Body Book for Younger Girls, Revised Edition (American Girl Library)",Melissa Hartwig Urban,2764,4.6,13.99,Hardcover
+#52,"Uninvited: Living Loved When You Feel Less Than, Left Out, and Lonely",Daniel Kahneman,29734,4.6,11.29,Paperback
+#53,Big Little Lies,Sarah Young,31196,4.9,7.53,Hardcover
+#54,The Official SAT Study Guide,Heidi Murkoff,29390,4.8,12.7,Paperback
+#55,The Whole30 Cookbook: 150 Delicious and Totally Compliant Recipes to Help You Succeed with the Whole30 and Beyond,Jeannette Walls,19008,4.6,12.06,Paperback
+#56,"Thinking, Fast and Slow",F. Scott Fitzgerald,18661,4.0,6.79,Paperback
+#57,"Jesus Calling, Padded Hardcover, with Scripture references",Oprah Winfrey,2494,4.7,12.49,Hardcover
+#58,What to Expect When You're Expecting,Naomi Kleinberg,28284,4.7,5.72,Board book
+#59,The Glass Castle: A Memoir (book),John Grisham,15395,4.2,12.75,Hardcover
+#60,The Great Gatsby: The Only Authorized Edition,Shel Silverstein,27476,4.9,8.14,Hardcover
+#61,The Wisdom of Sundays: Life-Changing Insights from Super Soul Conversations,Chelsea Clinton,3262,4.8,10.4,Hardcover
+#62,P is for Potty! (Sesame Street) (Lift-the-Flap),Timothy Snyder,20340,4.7,6.38,Paperback
+#63,The Rooster Bar,Paulo Coelho,94761,4.7,13.29,Paperback
+#64,The Giving Tree,Ray Bradbury,34958,4.6,8.29,Paperback
+#65,She Persisted: 13 American Women Who Changed the World,John Grisham,23621,4.3,13.49,Hardcover
+#66,On Tyranny: Twenty Lessons from the Twentieth Century,John Green,11381,4.6,11.34,Hardcover
+#67,"The Alchemist, 25th Anniversary: A Fable About Following Your Dream",Brené Brown,29675,4.7,1.36,Paperback
+#68,Fahrenheit 451,Robert Munsch,53161,4.9,4.98,Paperback
+#69,Camino Island: A Novel,Ree Drummond,4803,4.8,16.05,Hardcover
+#70,Turtles All the Way Down,Carol S. Dweck,13911,4.6,8.55,Paperback
+#71,The Gifts of Imperfection: Let Go of Who You Think You're Supposed to Be and Embrace Who You Are,Karen Katz,12738,4.8,4.98,Board book
+#72,Love You Forever,Ron Chernow,8610,4.8,19.95,Hardcover
+#73,"The Pioneer Woman Cooks―Come and Get It!: Simple, Scrumptious Recipes for Crazy Busy Lives",Michelle Obama,123280,4.8,16.5,Hardcover
+#74,Mindset: The New Psychology of Success,Rachel Hollis,27338,4.6,11.51,Hardcover
+#75,Where Is Baby's Belly Button? A Lift-the-Flap Book,Craig Smith,74726,4.8,5.28,Paperback
+#76,Grant,Michael Wolff,17292,4.2,9.29,Hardcover
+#1,Becoming,Jill Twiss,15015,4.9,16.99,Hardcover
+#2,"Girl, Wash Your Face: Stop Believing the Lies About Who You Are So You Can Become Who You Were Meant to Be",Jordan B. Peterson,58077,4.8,18.14,Hardcover
+#3,The Wonky Donkey,Joanna Gaines,32326,4.8,16.59,Hardcover
+#4,Fire and Fury: Inside the Trump White House,The Staff of The Late Show with Stephen Colbert,9935,4.6,13.49,Hardcover
+#5,Fear: Trump in the White House,Mark Manson,80334,4.6,14.35,Hardcover
+#6,"Last Week Tonight with John Oliver Presents A Day in the Life of Marlon Bundo (Better Bundo Book, LGBT Children’s Book)",James Comey,8326,4.7,6.15,Hardcover
+#7,12 Rules for Life: An Antidote to Chaos,Amy Ramos,28721,4.3,6.98,Paperback
+#8,Magnolia Table,Jeff Kinney,20282,4.8,11.63,Hardcover
+#9,Whose Boat Is This Boat?: Comments That Don't Help in the Aftermath of a Hurricane,Gary Chapman,69869,4.8,7.57,Paperback
+#10,The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life,Roger Priddy,35236,4.7,4.78,Board book
+#11,"A Higher Loyalty: Truth, Lies, and Leadership",Dav Pilkey,15745,4.9,9.17,Hardcover
+#12,The Complete Ketogenic Diet for Beginners: Your Essential Guide to Living the Keto Lifestyle,Tara Westover,69411,4.7,13.0,Hardcover
+#13,Diary of a Wimpy Kid #13: Meltdown,Jen Sincero,35414,4.7,8.45,Paperback
+#14,The 5 Love Languages: The Secret to Love that Lasts,Dr. Steven R Gundry  MD,14277,4.4,13.79,Hardcover
+#15,First 100 Words: A Padded Board Book,Giles Andreae,28447,4.8,6.9,Board book
+#16,Dog Man: Lord of the Fleas: From the Creator of Captain Underpants (Dog Man #5),Dungeons & Dragons,45652,4.9,22.95,Hardcover
+#17,Educated: A Memoir,Joanna Gaines,10966,4.8,20.79,Hardcover
+#18,You Are a Badass: How to Stop Doubting Your Greatness and Start Living an Awesome Life,Eric Carle,54008,4.9,4.93,Board book
+#19,"The Plant Paradox: The Hidden Dangers in ""Healthy"" Foods That Cause Disease and Weight Gain (The Plant Paradox, 1)",Kevin Kwan,11395,4.4,7.89,Paperback
+#20,Giraffes Can't Dance,Angie Thomas,25140,4.8,10.4,Hardcover
+#21,D&D Player’s Handbook (Dungeons & Dragons Core Rulebook),Laurel Randolph,12578,4.4,8.97,Paperback
+#22,Homebody: A Guide to Creating Spaces You Never Want to Leave,Don Miguel Ruiz,86679,4.7,7.74,Paperback
+#23,The Very Hungry Caterpillar,Emily Winfield Martin,25148,4.9,8.55,Hardcover
+#24,Crazy Rich Asians (Crazy Rich Asians Trilogy),Naomi Kleinberg,28284,4.7,5.72,Board book
+#25,The Hate U Give,Deborah Diesen,23576,4.9,4.98,Board book
+#26,The Instant Pot Electric Pressure Cooker Cookbook: Easy Recipes for Fast & Healthy Meals,Paper Peony Press,20363,4.0,6.99,Paperback
+#27,The Four Agreements: A Practical Guide to Personal Freedom (A Toltec Wisdom Book),American Psychological Association,12674,4.0,24.29,Paperback
+#28,The Wonderful Things You Will Be,Rod Campbell,26342,4.8,5.0,Board book
+#29,P is for Potty! (Sesame Street) (Lift-the-Flap),Dr. Seuss,42848,4.9,8.48,Hardcover
+#30,The Pout-Pout Fish,Dav Pilkey,15853,4.9,9.99,Hardcover
+#31,Lettering and Modern Calligraphy: A Beginner's Guide: Learn Hand Lettering and Brush Lettering,Margaret Wise Brown,24815,4.9,5.36,Board book
+#32,"Publication Manual of the American Psychological Association, 6th Edition",Samin Nosrat,20620,4.8,16.65,Hardcover
+#33,Dear Zoo: A Lift-the-Flap Book,Madeleine L'Engle,12524,4.6,6.99,Paperback
+#34,"Oh, the Places You'll Go!  ",Dale Carnegie,79108,4.7,10.5,Paperback
+#35,Dog Man and Cat Kid: From the Creator of Captain Underpants (Dog Man #4),Dav Pilkey,18456,4.9,9.99,Hardcover
+#36,Goodnight Moon,Jennifer Smith,13295,4.4,8.7,Paperback
+#37,"Salt, Fat, Acid, Heat: Mastering the Elements of Good Cooking",Rupi Kaur,46408,4.7,7.38,Paperback
+#38,A Wrinkle in Time (Time Quintet),Celeste Ng,56902,4.0,12.75,Hardcover
+#39,How to Win Friends & Influence People,Anthony Bourdain,7513,4.8,8.99,Paperback
+#40,Dog Man: Brawl of the Wild: From the Creator of Captain Underpants (Dog Man #6),James Patterson,23990,4.4,14.75,Hardcover
+#41,Instant Pot Pressure Cooker Cookbook: 500 Everyday Recipes for Beginners and Advanced Users. Try Easy and Healthy Instant Pot Recipes.,School Zone,66846,4.8,5.99,Paperback
+#42,Milk and Honey,Paulo Coelho,94761,4.7,13.29,Paperback
+#43,Little Fires Everywhere,R. J. Palacio,35698,4.8,9.67,Hardcover
+#44,Kitchen Confidential Updated Edition: Adventures in the Culinary Underbelly (P.S.),Harper Lee,68849,4.8,7.19,Paperback
+#45,The President Is Missing: A Novel,Melissa Hartwig Urban,15538,4.6,14.68,Hardcover
+#46,"School Zone - Big Preschool Workbook - 320 Pages, Ages 3 to 5, Colors, Shapes, Numbers, Early Math, Alphabet, Pre-Writing, Phonics, Following Directions, and More (School Zone Big Workbook Series)",Bob Goff,6586,4.8,11.29,Paperback
+#51,"The Alchemist, 25th Anniversary: A Fable About Following Your Dream",Lisa Wingate,41195,4.7,12.63,Hardcover
+#52,Wonder,John Grisham,21596,4.2,15.4,Hardcover
+#53,To Kill a Mockingbird,Bill Martin Jr.,47136,4.9,4.55,Board book
+#54,The Whole30: The 30-Day Guide to Total Health and Food Freedom,Mark Sullivan,66015,4.7,13.46,Paperback
+#55,Everybody Always: Becoming Love in a World Full of Setbacks and Difficult People,Heidi Murkoff,29390,4.8,12.7,Paperback
+#56,Before We Were Yours: A Novel,Ray Dalio,12018,4.6,16.29,Hardcover
+#57,The Reckoning: A Novel,Neil deGrasse Tyson,20795,4.7,9.49,Hardcover
+#58,"Brown Bear, Brown Bear, What Do You See?",Rob Elliott,10751,4.6,4.99,Paperback
+#59,Beneath a Scarlet Sky: A Novel,Anthony William,10982,4.7,21.99,Hardcover
+#60,What to Expect When You're Expecting,The College Board,2345,4.0,5.21,Paperback
+#61,Principles: Life and Work,Sasha O'Hara,21068,4.6,4.99,Paperback
+#62,Astrophysics for People in a Hurry,Valorie Schaefer,24539,4.8,9.48,Paperback
+#63,Laugh-Out-Loud Jokes for Kids,Stephen King,25399,4.6,14.89,Hardcover
+#64,"Medical Medium Liver Rescue: Answers to Eczema, Psoriasis, Diabetes, Strep, Acne, Gout, Bloating, Gallstones, Adrenal Stress, Fatigue, Fatty Liver, Weight Issues, SIBO & Autoimmune Disease",Delia Owens,344905,4.8,12.39,Hardcover
+#65,The Official SAT Study Guide,Wizards RPG,26117,4.9,27.97,Hardcover
+#66,Calm the F*ck Down: An Irreverent Adult Coloring Book,Yuval Harari,65787,4.6,15.5,Paperback
+#67,"The Care and Keeping of You: The Body Book for Younger Girls, Revised Edition (American Girl Library)",Robert Munsch,53161,4.9,4.98,Paperback
+#68,The Outsider: A Novel,Adam Rubin,15753,4.8,8.95,Hardcover
+#69,Where the Crawdads Sing,A. J. Finn,38254,4.4,14.18,Hardcover
+#70,D&D Dungeon Master’s Guide (Dungeons & Dragons Core Rulebook),Wizards RPG,22525,4.9,26.9,Hardcover
+#71,Sapiens: A Brief History of Humankind,Suzanne Ryan,9484,4.6,15.9,Paperback
+#72,Love You Forever,Gallup,7078,4.1,18.29,Hardcover
+#73,Dragons Love Tacos,Jocko Willink,26082,4.8,14.49,Hardcover
+#74,The Woman in the Window: A Novel,Gregg Jarrett,4750,4.8,14.35,Hardcover
+#75,D&D Monster Manual (Dungeons & Dragons Core Rulebook),Dan Green,24653,4.7,4.99,Paperback
+#76,Simply Keto: A Practical Approach to Health & Weight Loss with 100+ Easy Low-Carb Recipes,Rupi Kaur,16958,4.8,9.0,Paperback
+#77,StrengthsFinder 2.0,Marie Kondō,28106,4.0,8.32,Hardcover
+#78,Extreme Ownership: How U.S. Navy SEALs Lead and Win (New Edition),Jen Fisch,15796,4.4,8.94,Paperback
+#79,The Russia Hoax: The Illicit Scheme to Clear Hillary Clinton and Frame Donald Trump,Brianna Caplan Sayres,13755,4.8,7.0,Board book
+#80,How to Draw 101 Animals (1),Stephen R. Covey,9187,4.7,18.39,Paperback
+#81,The Sun and Her Flowers,Reese Witherspoon,4743,4.7,15.74,Hardcover
+#82,The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing,Viktor E. Frankl,53309,4.7,18.5,Paperback
+#83,"The Easy 5-Ingredient Ketogenic Diet Cookbook: Low-Carb, High-Fat Recipes for Busy People on the Keto Diet",Kristin Hannah,44698,4.7,14.4,Hardcover
+#84,Where Do Diggers Sleep at Night? (Where Do...Series),Dave Ramsey,24427,4.7,11.88,Hardcover
+#85,The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change,Chrissy Teigen,6748,4.8,14.42,Hardcover
+#86,"Whiskey in a Teacup: What Growing Up in the South Taught Me About Life, Love, and Baking Biscuits",Margaret Atwood,60683,4.4,14.35,Paperback
+#87,Man's Search for Meaning (OLD EDITION/OUT OF PRINT),Brené Brown,29675,4.7,1.36,Paperback
+#88,The Great Alone: A Novel,F. Scott Fitzgerald,18661,4.0,6.79,Paperback
+#89,The Total Money Makeover: Classic Edition: A Proven Plan for Financial Fitness,Bessel van der Kolk M.D.,55929,4.8,11.4,Paperback
+#90,Cravings: Hungry for More: A Cookbook,Lin-Manuel Miranda,4790,4.8,10.44,Hardcover
+#91,The Handmaid's Tale,Robert T. Kiyosaki,94101,4.7,8.99,Mass Market Paperback
+#92,The Gifts of Imperfection: Let Go of Who You Think You're Supposed to Be and Embrace Who You Are,Admiral William H. McRaven,29868,4.7,11.58,Hardcover
+#93,The Great Gatsby: The Only Authorized Edition,J. K. Rowling,91629,4.9,38.86,Paperback
+#94,"The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma",Dungeons & Dragons,20018,4.9,32.99,Hardcover
+#95,"Gmorning, Gnight!: Little Pep Talks for Me & You",Delia Owens,344905,4.8,12.39,Hardcover
+#96,Rich Dad Poor Dad: What the Rich Teach Their Kids About Money That the Poor and Middle Class Do Not!,Michelle Obama,123280,4.8,16.5,Hardcover
+#97,Make Your Bed: Little Things That Can Change Your Life...And Maybe the World,Tara Westover,69411,4.7,13.0,Hardcover
+#98,Harry Potter Paperback Box Set (Books 1-7),Dav Pilkey,23639,4.9,6.43,Hardcover
+#99,Xanathar's Guide to Everything (Dungeons & Dragons),Rachel Hollis,27338,4.6,11.51,Hardcover
+#1,Where the Crawdads Sing,Dav Pilkey,27988,4.9,7.76,Hardcover
+#2,Becoming,Jeff Kinney,18630,4.9,8.96,Hardcover
+#3,Educated: A Memoir,Emily Winfield Martin,25148,4.9,8.55,Hardcover
+#4,Dog Man: For Whom the Ball Rolls: From the Creator of Captain Underpants (Dog Man #7),School Zone,66846,4.8,5.99,Paperback
+#5,"Girl, Wash Your Face: Stop Believing the Lies About Who You Are So You Can Become Who You Were Meant to Be",Gary Chapman,69869,4.8,7.57,Paperback
+#6,Dog Man: Fetch-22: From the Creator of Captain Underpants (Dog Man #8),Rachel Hollis,14255,4.6,9.98,Hardcover
+#7,Wrecking Ball (Diary of a Wimpy Kid Book 14),Craig Smith,74726,4.8,5.28,Paperback
+#8,The Wonderful Things You Will Be,Mark Manson,80334,4.6,14.35,Hardcover
+#9,"School Zone - Big Preschool Workbook - 320 Pages, Ages 3 to 5, Colors, Shapes, Numbers, Early Math, Alphabet, Pre-Writing, Phonics, Following Directions, and More (School Zone Big Workbook Series)",M Prefontaine,28839,4.6,5.99,Paperback
+#10,The 5 Love Languages: The Secret to Love that Lasts,Samin Nosrat,20620,4.8,16.65,Hardcover
+#11,"Girl, Stop Apologizing: A Shame-Free Plan for Embracing and Achieving Your Goals",Eric Carle,54008,4.9,4.93,Board book
+#12,The Wonky Donkey,Adir Levy,22169,4.8,11.89,Hardcover
+#13,The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life,Lysa TerKeurst,17297,4.8,23.55,Hardcover
+#14,Difficult Riddles For Smart Kids: 300 Difficult Riddles And Brain Teasers Families Will Love (Books for Smart Kids),Hopscotch Girls,32091,4.8,6.99,Paperback
+#15,"Salt, Fat, Acid, Heat: Mastering the Elements of Good Cooking",Don Miguel Ruiz,86679,4.7,7.74,Paperback
+#16,The Very Hungry Caterpillar,Mark R. Levin,9263,4.9,12.99,Hardcover
+#17,"What Should Danny Do? (The Power to Choose Series) (The Power to Choose, 1)",Dav Pilkey,18456,4.9,9.99,Hardcover
+#18,It's Not Supposed to Be This Way: Finding Unexpected Strength When Disappointments Leave You Shattered,Giles Andreae,28447,4.8,6.9,Board book
+#19,"I Am Confident, Brave & Beautiful: A Coloring Book for Girls",Ann Whitford Paul,69538,4.8,4.14,Board book
+#20,The Four Agreements: A Practical Guide to Personal Freedom (A Toltec Wisdom Book),Dr. Seuss,42848,4.9,8.48,Hardcover
+#21,Unfreedom of the Press,Howard Stern,7960,4.0,17.51,Hardcover
+#22,Dog Man: Brawl of the Wild: From the Creator of Captain Underpants (Dog Man #6),Raina Telgemeier,13983,4.8,5.9,Paperback
+#23,Giraffes Can't Dance,Marie Kondō,28106,4.0,8.32,Hardcover
+#24,If Animals Kissed Good Night,J. K. Rowling,24882,4.9,21.52,Hardcover
+#25,"Oh, the Places You'll Go!  ",Amy Shields,17839,4.8,8.72,Hardcover
+#26,Howard Stern Comes Again,Jennifer Smith,13295,4.4,8.7,Paperback
+#27,Guts: A Graphic Novel,Bessel van der Kolk M.D.,55929,4.8,11.4,Paperback
+#28,The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing,Pretty Simple Press,27793,4.6,6.99,Paperback
+#29,"Harry Potter and the Goblet of Fire: The Illustrated Edition (Harry Potter, Book 4) (Illustrated edition) (4)",Margaret Wise Brown,24815,4.9,5.36,Board book
+#30,National Geographic Little Kids First Big Book of Why (National Geographic Little Kids First Big Books),Amy Ramos,28721,4.3,6.98,Paperback
+#31,Instant Pot Pressure Cooker Cookbook: 500 Everyday Recipes for Beginners and Advanced Users. Try Easy and Healthy Instant Pot Recipes.,Silly Bear,20061,4.8,4.99,Paperback
+#32,"The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma",Nathan W. Pyle,16341,4.9,9.25,Hardcover
+#33,Good Days Start With Gratitude: A 52 Week Guide To Cultivate An Attitude Of Gratitude: Gratitude Journal,Dungeons & Dragons,45652,4.9,22.95,Hardcover
+#34,Goodnight Moon,Alex Michaelides,135192,4.0,12.99,Hardcover
+#35,The Complete Ketogenic Diet for Beginners: Your Essential Guide to Living the Keto Lifestyle,National Kids,19076,4.8,11.97,Hardcover
+#36,Unicorn Coloring Book: For Kids Ages 4-8 (US Edition) (Silly Bear Coloring Books),Harper Lee,68849,4.8,7.19,Paperback
+#37,Strange Planet (Strange Planet Series),Jen Sincero,35414,4.7,8.45,Paperback
+#38,D&D Player’s Handbook (Dungeons & Dragons Core Rulebook),Crispin Boyer,12922,4.8,12.98,Hardcover
+#39,The Silent Patient,David Goggins,60792,4.8,20.35,Hardcover
+#40,"5,000 Awesome Facts (About Everything!)",John Grisham,35846,4.0,13.73,Hardcover
+#41,To Kill a Mockingbird,Naomi Kleinberg,28284,4.7,5.72,Board book
+#42,You Are a Badass: How to Stop Doubting Your Greatness and Start Living an Awesome Life,Dave Ramsey,24427,4.7,11.88,Hardcover
+#43,"National Geographic Kids Why?: Over 1,111 Answers to Everything",Bill Martin Jr.,47136,4.9,4.55,Board book
+#44,Can't Hurt Me: Master Your Mind and Defy the Odds,Dinah Bucholz,30623,4.7,9.99,Hardcover
+#45,The Guardians: A Novel,The Washington Post,4086,4.0,9.63,Paperback
+#46,P is for Potty! (Sesame Street) (Lift-the-Flap),Monica Sweeney,23862,4.7,13.49,Paperback
+#47,The Total Money Makeover: Classic Edition: A Proven Plan for Financial Fitness,Robert T. Kiyosaki,94101,4.7,8.99,Mass Market Paperback
+#48,"Brown Bear, Brown Bear, What Do You See?",Stephen King,33467,4.7,14.67,Hardcover
+#49,The Unofficial Harry Potter Cookbook: From Cauldron Cakes to Knickerbocker Glory--More Than 150 Magical Recipes for Wizards and Non-Wizards Alike (Unofficial Cookbook),Margaret Atwood,30468,4.6,14.99,Hardcover
+#50,The Mueller Report,Scholastic,20986,4.8,1.95,Paperback
+#51,Zen as F*ck (Zen as F*ck Journals),Paper Peony Press,20363,4.0,6.99,Paperback
+#52,Rich Dad Poor Dad: What the Rich Teach Their Kids About Money That the Poor and Middle Class Do Not!,Brighter Child,49380,4.8,2.99,Cards
+#53,The Institute: A Novel,James Clear,84086,4.8,11.98,Hardcover
+#54,The Testaments: The Sequel to The Handmaid's Tale,Admiral William H. McRaven,29868,4.7,11.58,Hardcover
+#55,Super Deluxe Essential Handbook (Pokémon): The Need-to-Know Stats and Facts on Over 800 Characters,Brené Brown,29675,4.7,1.36,Paperback
+#56,Lettering and Modern Calligraphy: A Beginner's Guide: Learn Hand Lettering and Brush Lettering,Yuval Harari,65787,4.6,15.5,Paperback
+#57,"Carson Dellosa First Words Flash Cards, High Frequency Vocabulary Words and Picture for Preschool and Kindergarten, Sight Word Game for Toddlers Ages 4+ (54 Cards) Cards",Heidi Murkoff,29390,4.8,12.7,Paperback
+#58,Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones,Delia Owens,344905,4.8,13.99,Paperback
+#59,Make Your Bed: Little Things That Can Change Your Life...And Maybe the World,Brené Brown,11620,4.8,9.87,Paperback
+#60,The Gifts of Imperfection: Let Go of Who You Think You're Supposed to Be and Embrace Who You Are,Paulo Coelho,94761,4.7,13.29,Paperback
+#61,Sapiens: A Brief History of Humankind,American Psychological Association,12674,4.0,24.29,Paperback
+#62,What to Expect When You're Expecting,Deborah Diesen,23576,4.9,4.98,Board book
+#63,Where the Crawdads Sing,Malcolm Gladwell,15464,4.0,13.38,Hardcover
+#64,"Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead",Rod Campbell,26342,4.8,5.0,Board book
+#65,"The Alchemist, 25th Anniversary: A Fable About Following Your Dream",Richard Powers,16412,4.4,14.29,Paperback
+#66,"Publication Manual of the American Psychological Association, 6th Edition",Ray Bradbury,34958,4.6,8.29,Paperback
+#67,The Pout-Pout Fish,Gallup,7078,4.1,18.29,Hardcover
+#68,Talking to Strangers: What We Should Know about the People We Don't Know,Jordan B. Peterson,58077,4.8,18.14,Hardcover
+#69,Dear Zoo: A Lift-the-Flap Book,Gail Honeyman,59928,4.0,8.31,Paperback
+#70,The Overstory: A Novel,Elton John,21208,4.8,14.71,Hardcover
+#71,Fahrenheit 451,Ian Morgan Cron,10496,4.7,11.99,Hardcover
+#72,StrengthsFinder 2.0,Heather Morris,55797,4.7,9.57,Paperback
+#73,12 Rules for Life: An Antidote to Chaos,Andrew Kipple,10542,4.7,10.99,Paperback
+#74,Eleanor Oliphant Is Completely Fine: A Novel,F. Scott Fitzgerald,18661,4.0,6.79,Paperback
+#75,Me: Elton John Official Autobiography,America's Test Kitchen Kids,19196,4.8,13.0,Hardcover
+#76,The Road Back to You: An Enneagram Journey to Self-Discovery,Rachel Maddow,8470,4.8,1.55,Hardcover
+#77,The Tattooist of Auschwitz: A Novel,Robert Munsch,53161,4.9,4.98,Paperback
+#78,People of Walmart Adult Coloring Book: Rolling Back Dignity,Jen Fisch,15796,4.4,8.94,Paperback
+#79,The Great Gatsby: The Only Authorized Edition,Shel Silverstein,27476,4.9,8.14,Hardcover
+#80,The Complete Cookbook for Young Chefs: 100+ Recipes that You'll Love to Cook and Eat,Adam Rubin,15753,4.8,8.95,Hardcover
+#81,"Blowout: Corrupted Democracy, Rogue State Russia, and the Richest, Most Destructive Industry on Earth",Dale Carnegie,79108,4.7,10.5,Paperback
+#82,Love You Forever,Joanna Gaines,32326,4.8,16.59,Hardcover
+#83,"The Easy 5-Ingredient Ketogenic Diet Cookbook: Low-Carb, High-Fat Recipes for Busy People on the Keto Diet",Dr. Jason Fung,25528,4.6,16.95,Paperback
+#84,The Giving Tree,Mary Pope Osborne,19363,4.8,11.0,Paperback
+#85,Dragons Love Tacos,Lisa Jewell,49983,4.0,8.09,Paperback
+#86,How to Win Friends & Influence People,David McCullough,7648,4.4,13.98,Hardcover
+#87,Magnolia Table,Conor Riordan,38571,4.0,11.66,Paperback
+#88,The Obesity Code - Unlocking the Secrets of Weight Loss (Book 1),Anthony William,10982,4.7,21.99,Hardcover
+#89,"Magic Tree House Boxed Set, Books 1-4: Dinosaurs Before Dark, The Knight at Dawn, Mummies in the Morning, and Pirates Past Noon",Valorie Schaefer,24539,4.8,9.48,Paperback
+#90,Then She Was Gone: A Novel,Tish Rabe,24728,4.8,5.98,Hardcover
+#91,The Pioneers: The Heroic Story of the Settlers Who Brought the American Ideal West,Dan Green,24653,4.7,4.99,Paperback
